@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "t",
+        "name": "T",
+        "user_id": "ad61d7e4d8bd47ce9ef7dbb6faa9bbfc",
+        "device_trackers": [
+          "device_tracker.toms_iphone"
+        ]
+      }
+    ]
+  }
+}

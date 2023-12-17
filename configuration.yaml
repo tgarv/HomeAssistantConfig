@@ -1,0 +1,44 @@
+
+# Loads default set of integrations. Do not remove.
+default_config:
+
+# Load frontend themes from the themes folder
+frontend:
+  themes: !include_dir_merge_named themes
+
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+smartir:
+template:
+
+# From https://community.home-assistant.io/t/convert-celsius-to-fahrenheit-in-sensor/271388/3
+sensor:
+  - platform: template
+    sensors:
+      tom_office_ac_temp_f:
+        unique_id: tom_office_ac_temp_f
+        friendly_name: "Tom Office F"
+        unit_of_measurement: '°F'
+        value_template: >-
+          {% set t = states('sensor.remote_temperature') | float %}
+          {{((t)*9/5)+32}}
+
+climate:
+  - platform: smartir
+    name: Tom Office AC
+    unique_id: tom_office_ac
+    device_code: 1129
+    controller_data: remote.remote
+    temperature_sensor: sensor.tom_office_ac_temp_f
+    
+
+homeassistant:
+ customize:
+    # Add an entry for each entity that you want to overwrite.
+    climate.tom_office_ac:
+    #  current_temperature: >-
+    #      {% set t = states('sensor.remote_temperature') | float %}
+    #      {{((t)*9/5)+32}}
+     min_temp: 55
+     max_temp: 80

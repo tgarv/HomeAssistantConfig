@@ -1,0 +1,1423 @@
+{
+  "version": 1,
+  "minor_version": 4,
+  "key": "core.device_registry",
+  "data": {
+    "devices": [
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "2cb5845b46dbbc34489e5a4d8927d9ff",
+        "identifiers": [
+          [
+            "hassio",
+            "core"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Core",
+        "name_by_user": null,
+        "name": "Home Assistant Core",
+        "serial_number": null,
+        "sw_version": "2023.12.2",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "b5936667dd678f13298bf5c178eb07fc",
+        "identifiers": [
+          [
+            "hassio",
+            "supervisor"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Supervisor",
+        "name_by_user": null,
+        "name": "Home Assistant Supervisor",
+        "serial_number": null,
+        "sw_version": "2023.11.6",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "e32401c96f2223e3908e2559c5f97308",
+        "identifiers": [
+          [
+            "hassio",
+            "host"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Host",
+        "name_by_user": null,
+        "name": "Home Assistant Host",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "d5f6d892545855003f101d256dcc7237",
+        "identifiers": [
+          [
+            "hassio",
+            "OS"
+          ]
+        ],
+        "manufacturer": "Home Assistant",
+        "model": "Home Assistant Operating System",
+        "name_by_user": null,
+        "name": "Home Assistant Operating System",
+        "serial_number": null,
+        "sw_version": "11.1",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "afdaf5592e90d62124d1a244ad83408a"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "d75798a033fed3d7dd798eb1864d0f25",
+        "identifiers": [
+          [
+            "sun",
+            "afdaf5592e90d62124d1a244ad83408a"
+          ]
+        ],
+        "manufacturer": null,
+        "model": null,
+        "name_by_user": null,
+        "name": "Sun",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "6b9ccb70480b235022f11338597b47d6"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "8c4664a12d57f677aae7917779348b45",
+        "identifiers": [
+          [
+            "cast",
+            "1651155548358c6c84ac2962f0eb6ba2"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Home Mini",
+        "name_by_user": null,
+        "name": "Living Room speaker",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "6b9ccb70480b235022f11338597b47d6"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "09d752252bbab218adab35b509008af9",
+        "identifiers": [
+          [
+            "cast",
+            "df2e8bc7e4da4ebda0a6d0f7fa6506fd"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Cast Group",
+        "name_by_user": null,
+        "name": "all",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "6b9ccb70480b235022f11338597b47d6"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "b74674742272657ab1993ae836332ce9",
+        "identifiers": [
+          [
+            "cast",
+            "6aa070d1ae24e34c3c52fd48aa9c8342"
+          ]
+        ],
+        "manufacturer": "Google Inc.",
+        "model": "Google Home Mini",
+        "name_by_user": null,
+        "name": "Office speaker",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "aba44a7d6a648e204e4659c38532c534"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "bluetooth",
+            "D8:3A:DD:75:43:C6"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "usb:v1D6Bp0246d0546",
+        "id": "6c726d79f488f95b1e10f92ad4e12510",
+        "identifiers": [],
+        "manufacturer": null,
+        "model": "Unknown",
+        "name_by_user": null,
+        "name": "hci0 (D8:3A:DD:75:43:C6)",
+        "serial_number": null,
+        "sw_version": "homeassistant",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "8a56cea0f32a5a279686f5c43b65e142"
+        ],
+        "configuration_url": "https://www.met.no/en",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "2f9ce2b0be0c3728743dcf2d24f04a75",
+        "identifiers": [
+          [
+            "met",
+            "8a56cea0f32a5a279686f5c43b65e142"
+          ]
+        ],
+        "manufacturer": "Met.no",
+        "model": "Forecast",
+        "name_by_user": null,
+        "name": "Forecast",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "a88b7bc062fb25425a423ffbae7960e6"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "c39bf731804cabd1ff46b468afa4b240",
+        "identifiers": [
+          [
+            "mobile_app",
+            "D1FD59FE-E888-4423-BA51-8B4672DE6C63"
+          ]
+        ],
+        "manufacturer": "Apple",
+        "model": "iPhone14,3",
+        "name_by_user": null,
+        "name": "Tom’s iPhone",
+        "serial_number": null,
+        "sw_version": "17.1.2",
+        "via_device_id": null
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "8fd5f0e24e08c30470f83e40116be027"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "50:c7:bf:1c:e8:18"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "1.0",
+        "id": "9b815fdb4c1fd01694b6243744546d54",
+        "identifiers": [
+          [
+            "tplink",
+            "50:C7:BF:1C:E8:18"
+          ]
+        ],
+        "manufacturer": "TP-Link",
+        "model": "HS100(US)",
+        "name_by_user": null,
+        "name": "Office lamp",
+        "serial_number": null,
+        "sw_version": "1.2.6 Build 200727 Rel.120528",
+        "via_device_id": null
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:06:c7:ea:9e"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "4b5970c550566e1480c840903cc18a3a",
+        "identifiers": [
+          [
+            "hue",
+            "4406cb32-fea1-43e5-a5de-13866cbf6519"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue white downlight (LWB022)",
+        "name_by_user": null,
+        "name": "Living Room 2",
+        "serial_number": null,
+        "sw_version": "1.104.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:06:c8:09:e5"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "f366187c38f1b7e2042fe5775ca6c729",
+        "identifiers": [
+          [
+            "hue",
+            "9530961f-6a72-4965-b2ec-9f22839266ca"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue white downlight (LWB022)",
+        "name_by_user": null,
+        "name": "Living Room 1",
+        "serial_number": null,
+        "sw_version": "1.104.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:02:32:ee:a0"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "f0d1fbe143e5e7ddee89e03816a78c02",
+        "identifiers": [
+          [
+            "hue",
+            "8256adf4-887c-4d3a-912d-3b71b22c272d"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue color lamp (LCT014)",
+        "name_by_user": null,
+        "name": "Hue color lamp 2",
+        "serial_number": null,
+        "sw_version": "1.108.7",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:47:c4:7c"
+          ],
+          [
+            "mac",
+            "00:17:88:01:01:a7:c4:7c"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "917ea1c457d39e001f6b4e6db2129638",
+        "identifiers": [
+          [
+            "hue",
+            "001788fffe47c47c"
+          ],
+          [
+            "hue",
+            "f517646a-008a-4c63-aa30-ab557a7e9ff4"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "BSB002",
+        "name_by_user": null,
+        "name": "Hue Bridge",
+        "serial_number": null,
+        "sw_version": "1.61.1961135030",
+        "via_device_id": null
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:06:76:84:61"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "6e726a28ca850b7fa1d081ccf4ea5f9e",
+        "identifiers": [
+          [
+            "hue",
+            "6a57d102-e29c-46e1-96f1-2d7fa1efdec6"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue white downlight (LWB022)",
+        "name_by_user": null,
+        "name": "Living Room 3",
+        "serial_number": null,
+        "sw_version": "1.104.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:0d:3e:ec:cc"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "55297f66d9bcbb75b63a3fb1558c5a57",
+        "identifiers": [
+          [
+            "hue",
+            "2a4a3ddf-6c06-45de-a697-4947f232f630"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue white lamp (LWA029)",
+        "name_by_user": null,
+        "name": "Tom office white lamp",
+        "serial_number": null,
+        "sw_version": "1.104.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:0d:28:1c:c6"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "d1ff307cc6e5b2c6b9beff9cfe430084",
+        "identifiers": [
+          [
+            "hue",
+            "20046847-4e59-4060-ad1a-0d05fb1d7fa1"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue dimmer switch (RWL022)",
+        "name_by_user": null,
+        "name": "Hue dimmer switch 1",
+        "serial_number": null,
+        "sw_version": "2.45.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "rebecca_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:02:32:f8:06"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "ebcd75536bc4bafe13fdd6c2aa1906d5",
+        "identifiers": [
+          [
+            "hue",
+            "5dde9162-12e3-403e-a04d-6bf34649cefd"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue color lamp (LCT014)",
+        "name_by_user": null,
+        "name": "Rebecca office light",
+        "serial_number": null,
+        "sw_version": "1.88.1",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:02:70:ac:5a"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "ca87097ff60cb15f75762626eadf718d",
+        "identifiers": [
+          [
+            "hue",
+            "2cbfc317-3b36-4bc3-8775-b3b754b6a110"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue color lamp (LCT014)",
+        "name_by_user": null,
+        "name": "Hue color lamp 3",
+        "serial_number": null,
+        "sw_version": "1.108.7",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:06:c7:ed:19"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "b1c41f0fc230cb8643d8264647d97e0d",
+        "identifiers": [
+          [
+            "hue",
+            "0b12bdbe-4504-4b28-ac75-b1d45d640a25"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue white downlight (LWB022)",
+        "name_by_user": null,
+        "name": "Living Room 4",
+        "serial_number": null,
+        "sw_version": "1.104.2",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "00:17:88:01:02:25:98:b3"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "d8bd5f4d4c624f09215145eb665977bd",
+        "identifiers": [
+          [
+            "hue",
+            "38fa71a1-2ccd-4ef1-977c-944ed5a8f7f3"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Hue color lamp (LCT014)",
+        "name_by_user": null,
+        "name": "Hue color lamp 4",
+        "serial_number": null,
+        "sw_version": "1.108.7",
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "30964f340458337665bcbb0e0faddd52",
+        "identifiers": [
+          [
+            "hue",
+            "866c07a7-fd0d-49bf-b401-502802b8ecb7"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Room",
+        "name_by_user": null,
+        "name": "Living room",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "rebecca_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "04e0cb2792e3c1bc0d02f1711ad294c5",
+        "identifiers": [
+          [
+            "hue",
+            "d787add6-b3ad-48a6-8ed1-9420e3024e32"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Room",
+        "name_by_user": null,
+        "name": "Rebecca office",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "471b5d943c40a921c86393be64dac364"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "31dd410be0f444ca1ad6dabece931a10",
+        "identifiers": [
+          [
+            "hue",
+            "eb19e647-4494-402a-872e-0937fc15700d"
+          ]
+        ],
+        "manufacturer": "Signify Netherlands B.V.",
+        "model": "Room",
+        "name_by_user": null,
+        "name": "Tom Office",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "917ea1c457d39e001f6b4e6db2129638"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "314d2e0523d26c82421e4109f5131864"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "54:af:97:d5:4e:62"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "1.0",
+        "id": "79cdcfd0011c2b0fe29fec19570e7054",
+        "identifiers": [
+          [
+            "tplink",
+            "54:AF:97:D5:4E:62"
+          ]
+        ],
+        "manufacturer": "TP-Link",
+        "model": "KL400L10(US)",
+        "name_by_user": null,
+        "name": "Office Strip",
+        "serial_number": null,
+        "sw_version": "1.0.8 Build 211018 Rel.162056",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "b9d25039c9216652c0027d7e6844f680"
+        ],
+        "configuration_url": "https://open.spotify.com",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "f635065a041825f04e04772588ed731b",
+        "identifiers": [
+          [
+            "spotify",
+            "tgarvz"
+          ]
+        ],
+        "manufacturer": "Spotify AB",
+        "model": "Spotify premium",
+        "name_by_user": null,
+        "name": "Spotify tgarvz",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "7bf3c1f9472efa2825f0b68ce893ffce",
+        "identifiers": [
+          [
+            "simplisafe",
+            "4671543"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": 3,
+        "name_by_user": null,
+        "name": "12 Virgil Rd",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "928c3081dddb12afee722b8a23510dbd",
+        "identifiers": [
+          [
+            "simplisafe",
+            "01221a6e"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Keypad",
+        "name_by_user": null,
+        "name": " Keypad",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "4c9df685d71333f6b535a2659fcc2081",
+        "identifiers": [
+          [
+            "simplisafe",
+            "012def9f"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Motion",
+        "name_by_user": null,
+        "name": "Family room Motion",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "acff3867593bb9eb9d3360b3d9722cf5",
+        "identifiers": [
+          [
+            "simplisafe",
+            "012defaf"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Motion",
+        "name_by_user": null,
+        "name": "Front door Motion",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "781c80a9d03d764353062712ec0f5d12",
+        "identifiers": [
+          [
+            "simplisafe",
+            "0137881c"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Entry",
+        "name_by_user": null,
+        "name": "Basement Entry",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "484cf470a2a13504eeb58942da5a5e42",
+        "identifiers": [
+          [
+            "simplisafe",
+            "0137e919"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Entry",
+        "name_by_user": null,
+        "name": "Front door Entry",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "2c4775ef065ec09dd03de89050c872e2",
+        "identifiers": [
+          [
+            "simplisafe",
+            "013784c5"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Entry",
+        "name_by_user": null,
+        "name": "Patio door Entry",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "65c467413da4947fa378ae201a066522",
+        "identifiers": [
+          [
+            "simplisafe",
+            "01371126"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Entry",
+        "name_by_user": null,
+        "name": "Side door Entry",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "e88487f4edc585c46ca0c5aef95aa892",
+        "identifiers": [
+          [
+            "simplisafe",
+            "014cebff"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Leak",
+        "name_by_user": null,
+        "name": "Basement Leak",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "eb8a680f4d31f736d56da7d08f69627b",
+        "identifiers": [
+          [
+            "simplisafe",
+            "002f809c"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Temperature",
+        "name_by_user": null,
+        "name": "Living room Temperature",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "931587ccc090adc6b9e3e77ca7f48ce8",
+        "identifiers": [
+          [
+            "simplisafe",
+            "01674155"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Smoke",
+        "name_by_user": null,
+        "name": "2nd floor Smoke",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "6222ae88fdcb9e1181c96b7d07bb30ae",
+        "identifiers": [
+          [
+            "simplisafe",
+            "01673095"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Smoke",
+        "name_by_user": null,
+        "name": "Living room Smoke",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "377c4aaf63ea6fe9103b07c949dc88c9",
+        "identifiers": [
+          [
+            "simplisafe",
+            "01674177"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Smoke",
+        "name_by_user": null,
+        "name": "Upstairs Smoke",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "6b6a49dcc9a2f0a3b697a95fa6ab7c33",
+        "identifiers": [
+          [
+            "simplisafe",
+            "0167005a"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Smoke",
+        "name_by_user": null,
+        "name": "Front door Smoke",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "07c4f711578f0d39b0d2a0455344e7d3"
+        ],
+        "configuration_url": "https://webapp.simplisafe.com/new/#/dashboard",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "7539a1553ac6eb1d2cc8dc28ce9159b2",
+        "identifiers": [
+          [
+            "simplisafe",
+            "002314C6"
+          ]
+        ],
+        "manufacturer": "SimpliSafe",
+        "model": "Alarm control panel",
+        "name_by_user": null,
+        "name": "Alarm control panel",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": "7bf3c1f9472efa2825f0b68ce893ffce"
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "cfa8dc32355b646d7d24a5451ca48651"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "edb586bd25f6f57c66e3fdc8c7e88443",
+        "identifiers": [
+          [
+            "webostv",
+            "c33c730d-07ec-67b2-4ff5-aa6e92404a34"
+          ]
+        ],
+        "manufacturer": "LG",
+        "model": "OLED65CXPUA",
+        "name_by_user": null,
+        "name": "[LG] webOS TV OLED65CXPUA",
+        "serial_number": null,
+        "sw_version": "04.40.70",
+        "via_device_id": null
+      },
+      {
+        "area_id": "living_room",
+        "config_entries": [
+          "92d4436b86aad09b44cd9e6d770f888e"
+        ],
+        "configuration_url": null,
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "1",
+        "id": "11c5c60866ed1f0e7b0d9a311b545580",
+        "identifiers": [
+          [
+            "homekit_controller:accessory-id",
+            "E1:D8:AD:89:02:34:aid:1"
+          ]
+        ],
+        "manufacturer": "LG Electronics",
+        "model": "OLED65CXPUA",
+        "name_by_user": null,
+        "name": "LG webOS TV 8233",
+        "serial_number": null,
+        "sw_version": "04.40.70",
+        "via_device_id": null
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "afb276da0a5381e44f85aa5e5585b6b5"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "bluetooth",
+            "A4:C1:38:45:58:B9"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "03b1803cc2b6153ab3a2420c68e4a51e",
+        "identifiers": [
+          [
+            "bluetooth",
+            "A4:C1:38:45:58:B9"
+          ]
+        ],
+        "manufacturer": "Govee",
+        "model": "H5072/H5075",
+        "name_by_user": "Thermometer",
+        "name": "H5075 58B9",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "e34fc1cc3d6df00d2bf8fea8034d97f5"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "ec:0b:ae:9e:71:23"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": null,
+        "id": "103d37617df83c68563e675c07725689",
+        "identifiers": [
+          [
+            "broadlink",
+            "ec0bae9e7123"
+          ]
+        ],
+        "manufacturer": "Broadlink",
+        "model": "RM4 mini",
+        "name_by_user": null,
+        "name": "Remote",
+        "serial_number": null,
+        "sw_version": 62092,
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": "homeassistant://hassio/addon/core_configurator",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "65823787cca7b51dde727043f3dfca7a",
+        "identifiers": [
+          [
+            "hassio",
+            "core_configurator"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name_by_user": null,
+        "name": "File editor",
+        "serial_number": null,
+        "sw_version": "5.7.0",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "3fc099e231a809707f48dfba46a79081"
+        ],
+        "configuration_url": "homeassistant://hassio/addon/core_ssh",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "5cb456cde120fa21e716f1bca3dec058",
+        "identifiers": [
+          [
+            "hassio",
+            "core_ssh"
+          ]
+        ],
+        "manufacturer": "Official add-ons",
+        "model": "Home Assistant Add-on",
+        "name_by_user": null,
+        "name": "Terminal & SSH",
+        "serial_number": null,
+        "sw_version": "9.8.1",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "0c9577a5baec1b80457087a2cfc7300f"
+        ],
+        "configuration_url": "homeassistant://hacs",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "63e03aea36fafc8f88647084fcb2276b",
+        "identifiers": [
+          [
+            "hacs",
+            "0717a0cd-745c-48fd-9b16-c8534c9704f9-bc944b0f-fd42-4a58-a072-ade38d1444cd"
+          ]
+        ],
+        "manufacturer": "hacs.xyz",
+        "model": "",
+        "name_by_user": null,
+        "name": "HACS",
+        "serial_number": null,
+        "sw_version": "1.33.0",
+        "via_device_id": null
+      },
+      {
+        "area_id": null,
+        "config_entries": [
+          "0c9577a5baec1b80457087a2cfc7300f"
+        ],
+        "configuration_url": "homeassistant://hacs",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "4b64df69de793bf3e06389859edccac4",
+        "identifiers": [
+          [
+            "hacs",
+            "171121354"
+          ]
+        ],
+        "manufacturer": "smartHomeHub",
+        "model": "integration",
+        "name_by_user": null,
+        "name": "SmartIR",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      },
+      {
+        "area_id": "front_porch",
+        "config_entries": [
+          "33e4245ac6abd8594b8d882155955e10"
+        ],
+        "configuration_url": null,
+        "connections": [
+          [
+            "mac",
+            "54:af:97:e5:58:bd"
+          ]
+        ],
+        "disabled_by": null,
+        "entry_type": null,
+        "hw_version": "1.0",
+        "id": "7607f45129727c7871f2e7cc008d637d",
+        "identifiers": [
+          [
+            "tplink",
+            "54:AF:97:E5:58:BD"
+          ]
+        ],
+        "manufacturer": "TP-Link",
+        "model": "EP10(US)",
+        "name_by_user": null,
+        "name": "Outside christmas lights",
+        "serial_number": null,
+        "sw_version": "1.0.2 Build 200915 Rel.085940",
+        "via_device_id": null
+      },
+      {
+        "area_id": "tom_office",
+        "config_entries": [
+          "3e5ff91f2cfe0aaeba8c5dfd54101f85"
+        ],
+        "configuration_url": "https://www.speedtest.net/",
+        "connections": [],
+        "disabled_by": null,
+        "entry_type": "service",
+        "hw_version": null,
+        "id": "f5ff35bbbf862d18ec05fb323deb64c4",
+        "identifiers": [
+          [
+            "speedtestdotnet",
+            "3e5ff91f2cfe0aaeba8c5dfd54101f85"
+          ]
+        ],
+        "manufacturer": null,
+        "model": null,
+        "name_by_user": null,
+        "name": "SpeedTest",
+        "serial_number": null,
+        "sw_version": null,
+        "via_device_id": null
+      }
+    ],
+    "deleted_devices": []
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "title": "Home",
+      "views": [
+        {
+          "path": "default_view",
+          "title": "Home",
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "light.living_room_1",
+                  "name": "1"
+                },
+                {
+                  "entity": "light.living_room_2",
+                  "name": "2"
+                },
+                {
+                  "entity": "light.living_room_3",
+                  "name": "3"
+                },
+                {
+                  "entity": "light.living_room_4",
+                  "name": "4"
+                },
+                "light.living_room"
+              ],
+              "title": "Living Room"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "light.rebecca_office_light",
+                  "name": "Light"
+                },
+                "light.rebecca_office"
+              ],
+              "title": "Rebecca office"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "light.hue_color_lamp_2",
+                "light.hue_color_lamp_3",
+                "light.hue_color_lamp_4",
+                "switch.office_lamp",
+                "light.tom_office",
+                {
+                  "entity": "light.tom_office_white_lamp",
+                  "name": "White lamp"
+                }
+              ],
+              "title": "Tom Office",
+              "footer": {
+                "type": "buttons",
+                "entities": [
+                  {
+                    "entity": "scene.tom_office_nightlight",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Nightlight"
+                  },
+                  {
+                    "entity": "scene.tom_office_dimmed",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Dimmed"
+                  },
+                  {
+                    "entity": "scene.tom_office_concentrate",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Concentrate"
+                  },
+                  {
+                    "entity": "scene.tom_office_energize",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Energize"
+                  },
+                  {
+                    "entity": "scene.tom_office_arctic_aurora",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Arctic aurora"
+                  },
+                  {
+                    "entity": "scene.tom_office_tropical_twilight",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Tropical twilight"
+                  },
+                  {
+                    "entity": "scene.tom_office_spring_blossom",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Spring blossom"
+                  },
+                  {
+                    "entity": "scene.tom_office_bright",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Bright"
+                  },
+                  {
+                    "entity": "scene.tom_office_golden_pond",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Golden pond"
+                  },
+                  {
+                    "entity": "scene.tom_office_read",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Read"
+                  },
+                  {
+                    "entity": "scene.tom_office_relax",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Relax"
+                  },
+                  {
+                    "entity": "scene.tom_office_savanna_sunset",
+                    "show_icon": true,
+                    "show_name": true,
+                    "name": "Savanna sunset"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "person.t"
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "light.tom_office_lights"
+              ],
+              "title": "Light"
+            },
+            {
+              "type": "grid",
+              "square": false,
+              "columns": 1,
+              "cards": [
+                {
+                  "type": "media-control",
+                  "entity": "media_player.all"
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.living_room_speaker"
+                },
+                {
+                  "type": "media-control",
+                  "entity": "media_player.office_speaker"
+                }
+              ]
+            },
+            {
+              "type": "weather-forecast",
+              "entity": "weather.forecast_home",
+              "show_forecast": false
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "light.office_strip",
+                {
+                  "entity": "sensor.office_strip_current_consumption",
+                  "name": "Current consumption"
+                },
+                {
+                  "entity": "sensor.office_strip_today_s_consumption",
+                  "name": "Today's consumption"
+                },
+                {
+                  "entity": "sensor.office_strip_total_consumption",
+                  "name": "Total consumption"
+                }
+              ],
+              "title": "Office Strip"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

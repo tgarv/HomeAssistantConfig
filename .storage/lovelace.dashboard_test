@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.dashboard_test",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "device_tracker.toms_iphone"
+              ],
+              "title": "Tom’s iPhone"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "switch.office_lamp",
+                "light.tom_office"
+              ],
+              "title": "Tom Office"
+            },
+            {
+              "type": "media-control",
+              "entity": "media_player.spotify_tgarvz"
+            },
+            {
+              "type": "picture-elements",
+              "elements": [
+                {
+                  "type": "state-icon",
+                  "entity": "light.tom_office",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "25%",
+                    "left": "35%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.hue_color_lamp_2",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "10%",
+                    "left": "14%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.hue_color_lamp_4",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "10%",
+                    "left": "19%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.hue_color_lamp_3",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "10%",
+                    "left": "38%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.tom_office_white_lamp",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "10%",
+                    "left": "44%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "switch.office_lamp",
+                  "style": {
+                    "top": "25%",
+                    "left": "15%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "entity": "media_player.office_speaker",
+                  "style": {
+                    "top": "25%",
+                    "left": "45%"
+                  }
+                },
+                {
+                  "type": "state-label",
+                  "entity": "sensor.remote_temperature",
+                  "style": {
+                    "top": "30%",
+                    "left": "30%"
+                  }
+                },
+                {
+                  "type": "state-label",
+                  "entity": "sensor.remote_humidity",
+                  "style": {
+                    "top": "33%",
+                    "left": "29%"
+                  }
+                }
+              ],
+              "image": "https://raw.githubusercontent.com/tgarv/garverman/2fd83b6671743feae44623e2862f60682eb53bb1/static/images/smarthome/SecondFloor.jpg"
+            },
+            {
+              "type": "picture-elements",
+              "elements": [
+                {
+                  "type": "state-badge",
+                  "entity": "sensor.living_room_temperature_temperature",
+                  "style": {
+                    "top": "85%",
+                    "left": "70%"
+                  },
+                  "title": null
+                },
+                {
+                  "type": "state-badge",
+                  "entity": "binary_sensor.front_door_entry_door",
+                  "style": {
+                    "top": "92%",
+                    "left": "43%"
+                  },
+                  "title": null
+                },
+                {
+                  "type": "state-badge",
+                  "entity": "binary_sensor.patio_door_entry_door",
+                  "style": {
+                    "top": "25%",
+                    "left": "70%"
+                  },
+                  "title": null
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.living_room",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "22.5%",
+                    "left": "45%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.living_room_1",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "30%",
+                    "left": "60%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.living_room_2",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "15%",
+                    "left": "30%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.living_room_3",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "15%",
+                    "left": "60%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "light.living_room_4",
+                  "tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "30%",
+                    "left": "30%"
+                  }
+                },
+                {
+                  "type": "state-icon",
+                  "entity": "media_player.lg_webos_tv_oled65cxpua",
+                  "double_tap_action": {
+                    "action": "toggle"
+                  },
+                  "style": {
+                    "top": "22.5%",
+                    "left": "21%"
+                  }
+                },
+                {
+                  "type": "state-label",
+                  "entity": "sensor.h5075_58b9_temperature",
+                  "style": {
+                    "top": "15%",
+                    "left": "45%"
+                  }
+                },
+                {
+                  "type": "state-label",
+                  "entity": "sensor.h5075_58b9_humidity",
+                  "style": {
+                    "top": "17%",
+                    "left": "45%"
+                  }
+                }
+              ],
+              "image": "https://raw.githubusercontent.com/tgarv/garverman/2fd83b6671743feae44623e2862f60682eb53bb1/static/images/smarthome/FirstFloor.jpg"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.h5075_58b9_battery",
+                "sensor.h5075_58b9_humidity",
+                "sensor.h5075_58b9_temperature"
+              ],
+              "title": "Thermometer"
+            },
+            {
+              "type": "weather-forecast",
+              "entity": "weather.forecast_home",
+              "show_forecast": false
+            },
+            {
+              "type": "logbook",
+              "entities": [
+                "binary_sensor.basement_entry_door",
+                "binary_sensor.side_door_entry_door",
+                "binary_sensor.front_door_entry_door"
+              ]
+            },
+            {
+              "type": "thermostat",
+              "entity": "climate.tom_office_ac",
+              "features": [
+                {
+                  "type": "climate-hvac-modes",
+                  "hvac_modes": [
+                    "off",
+                    "auto",
+                    "cool",
+                    "dry",
+                    "heat"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "gauge",
+              "entity": "sensor.remote_temperature",
+              "needle": false
+            },
+            {
+              "type": "gauge",
+              "entity": "sensor.tom_office_ac_temp_f",
+              "needle": false
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "switch.outside_christmas_lights"
+              ]
+            },
+            {
+              "chart_type": "line",
+              "period": "day",
+              "type": "statistics-graph",
+              "entities": [
+                "sensor.speedtest_download",
+                "sensor.speedtest_ping",
+                "sensor.speedtest_upload"
+              ],
+              "stat_types": [
+                "mean",
+                "min",
+                "max"
+              ],
+              "unit": "Mbit/s"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.speedtest_download",
+                "sensor.speedtest_ping",
+                "sensor.speedtest_upload"
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Main"
+    }
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "3fc099e231a809707f48dfba46a79081",
+        "version": 1,
+        "domain": "hassio",
+        "title": "Supervisor",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "system",
+        "unique_id": "hassio",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "9a0e220b2516797248a7398dc57b8a72",
+        "version": 1,
+        "domain": "raspberry_pi",
+        "title": "Raspberry Pi",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "system",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "afdaf5592e90d62124d1a244ad83408a",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8a36a8a8597bd5b05a198199d6288083",
+        "version": 1,
+        "domain": "rpi_power",
+        "title": "Raspberry Pi Power Supply Checker",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "6b9ccb70480b235022f11338597b47d6",
+        "version": 1,
+        "domain": "cast",
+        "title": "Google Cast",
+        "data": {
+          "ignore_cec": [],
+          "known_hosts": [],
+          "uuid": [],
+          "user_id": "c682c2d7810a440fa23381d16fc583e8"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "cast",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "aba44a7d6a648e204e4659c38532c534",
+        "version": 1,
+        "domain": "bluetooth",
+        "title": "D8:3A:DD:75:43:C6",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "integration_discovery",
+        "unique_id": "D8:3A:DD:75:43:C6",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "0056135d4679563cdee28e4768f9ce58",
+        "version": 1,
+        "domain": "shopping_list",
+        "title": "Shopping list",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": "shopping_list",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8a56cea0f32a5a279686f5c43b65e142",
+        "version": 1,
+        "domain": "met",
+        "title": "Home",
+        "data": {
+          "track_home": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "3b8b1e25d4dd0a3208ce76f35937d7df",
+        "version": 1,
+        "domain": "radio_browser",
+        "title": "Radio Browser",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "6430fedf3c37ed568677897a775f4d6c",
+        "version": 1,
+        "domain": "google_translate",
+        "title": "Google Translate text-to-speech",
+        "data": {
+          "language": "en",
+          "tld": "com"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a88b7bc062fb25425a423ffbae7960e6",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "Tom’s iPhone",
+        "data": {
+          "app_version": "2023.7 (2023.471)",
+          "supports_encryption": true,
+          "os_name": "iOS",
+          "app_name": "Home Assistant",
+          "model": "iPhone14,3",
+          "app_id": "io.robbie.HomeAssistant",
+          "os_version": "17.1.2",
+          "app_data": {
+            "push_token": "cQ3AD02Tck4CoI0ccvF8Ms:APA91bHzLocHacia_RvrYPN_tmu8K1sAWq0n6fG6jZgTUjvWunqfFiMkzGl9lJ5R8CZCRji29y92cWCSvrnNs-J3ZYL22B-fqz2ZKorVDpy66XPAGQ7ZfHhsgcpwUM9PM9o2bzxbZZEx",
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+          },
+          "device_id": "D1FD59FE-E888-4423-BA51-8B4672DE6C63",
+          "device_name": "Tom’s iPhone",
+          "manufacturer": "Apple",
+          "webhook_id": "229b6d1f622635af65f0ac5431321bf991851bdbc81b2486976e7f3f14232d94",
+          "secret": "ed64df5c6890fc2a9b615285ccc4fc18d276d607a08f67496e77462ac9429691",
+          "user_id": "ad61d7e4d8bd47ce9ef7dbb6faa9bbfc",
+          "no_legacy_encryption": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.robbie.HomeAssistant-D1FD59FE-E888-4423-BA51-8B4672DE6C63",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "8fd5f0e24e08c30470f83e40116be027",
+        "version": 1,
+        "domain": "tplink",
+        "title": "Office lamp HS100(US)",
+        "data": {
+          "host": "192.168.1.162"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "dhcp",
+        "unique_id": "50:c7:bf:1c:e8:18",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "471b5d943c40a921c86393be64dac364",
+        "version": 1,
+        "domain": "hue",
+        "title": "Hue Bridge 00178847c47c",
+        "data": {
+          "host": "192.168.1.175",
+          "api_key": "3DFEQyniA0Qet9w43LkliK28K2KvxwtG0EIIC3ZI",
+          "api_version": 2
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "00178847c47c",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "169c6565f92f180141e97cbaf71d9534",
+        "version": 1,
+        "domain": "group",
+        "title": "Tom Office Lights",
+        "data": {},
+        "options": {
+          "group_type": "light",
+          "name": "Tom Office Lights",
+          "entities": [
+            "light.tom_office"
+          ],
+          "hide_members": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "314d2e0523d26c82421e4109f5131864",
+        "version": 1,
+        "domain": "tplink",
+        "title": "Office Strip KL400L10(US)",
+        "data": {
+          "host": "192.168.1.253"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "integration_discovery",
+        "unique_id": "54:af:97:d5:4e:62",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b9d25039c9216652c0027d7e6844f680",
+        "version": 1,
+        "domain": "spotify",
+        "title": "tgarvz",
+        "data": {
+          "auth_implementation": "spotify_23eb28bf08cc40998e5dca9144aee4ca",
+          "token": {
+            "access_token": "BQClWzcVBSkLnOMNxUWP_ECiLlUUTMO1arRxXY9LI-IX2qnK8eUr_K4RlasFZhnwUokCoKZgADSizSF5d_Ye082njmEYVfRfxncEiwydZXDF2ZSujHDt4Uj12x7hqI6Mp21uHCwy19-GPNZSe87CMb8E2cicoBA0w6xfXa7MUkwGL5lc_2KSa57GfUanatnawOvklBCwCUpK6f186ROOP67cqboDhGbZBpUytOSa",
+            "token_type": "Bearer",
+            "expires_in": 3600,
+            "refresh_token": "AQDPNcWuBN7T2OUSdXtRA7CF38DFxC3aUdi05klkvPpbP4Qw6g0NcoWNx0SkZl2LH4N1QwRPmpmW-hcGuKm88mhTMN1knXHYuF4b3axMjBAxxtKjtoY9sC5i5jXyc5Ep3gc",
+            "scope": "playlist-read-private playlist-read-collaborative user-modify-playback-state user-library-read user-follow-read user-read-playback-state user-read-recently-played user-read-playback-position user-read-private user-top-read",
+            "expires_at": 1702856528.8420925
+          },
+          "id": "tgarvz",
+          "name": "tgarvz"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "tgarvz",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "07c4f711578f0d39b0d2a0455344e7d3",
+        "version": 1,
+        "domain": "simplisafe",
+        "title": "4409167",
+        "data": {
+          "username": "4409167",
+          "token": "pPh2WKStg0VTyy1eAJi5rdeIHED7zTwd83GQfZx04IZnd"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "4409167",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "cfa8dc32355b646d7d24a5451ca48651",
+        "version": 1,
+        "domain": "webostv",
+        "title": "[LG] webOS TV OLED65CXPUA",
+        "data": {
+          "host": "192.168.1.170",
+          "client_secret": "fb9b91ca99db80b3cef06713e7f5abc4"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "c33c730d-07ec-67b2-4ff5-aa6e92404a34",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "92d4436b86aad09b44cd9e6d770f888e",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "LG webOS TV 8233",
+        "data": {
+          "AccessoryPairingID": "E1:D8:AD:89:02:34",
+          "AccessoryLTPK": "deb5bce1446945d40b90283f3ea982c65ee4e100c5b13c41939930d7946d5abc",
+          "iOSPairingId": "8f49902c-a72f-4b7f-a488-e358dd37077a",
+          "iOSDeviceLTSK": "e9fbe5fc4d5f8c4bec4d526fbf32f3154e62cf0ed530aab6bec9c755d788c23a",
+          "iOSDeviceLTPK": "ab992ab181e11ca59e0e6d4cf4555daee1c6868dba1fa03b8ad665e580b03380",
+          "AccessoryIP": "192.168.1.170",
+          "AccessoryPort": 36201,
+          "Connection": "IP"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "e1:d8:ad:89:02:34",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "afb276da0a5381e44f85aa5e5585b6b5",
+        "version": 1,
+        "domain": "govee_ble",
+        "title": "H5075 58B9",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "bluetooth",
+        "unique_id": "A4:C1:38:45:58:B9",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "e34fc1cc3d6df00d2bf8fea8034d97f5",
+        "version": 1,
+        "domain": "broadlink",
+        "title": "Remote",
+        "data": {
+          "host": "192.168.1.251",
+          "mac": "ec0bae9e7123",
+          "type": 21014,
+          "timeout": 10
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "dhcp",
+        "unique_id": "ec0bae9e7123",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "0c9577a5baec1b80457087a2cfc7300f",
+        "version": 1,
+        "domain": "hacs",
+        "title": "",
+        "data": {
+          "token": "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"
+        },
+        "options": {
+          "sidepanel_title": "HACS",
+          "sidepanel_icon": "hacs:hacs",
+          "release_limit": 5,
+          "country": "ALL",
+          "appdaemon": true,
+          "netdaemon": true,
+          "debug": false,
+          "experimental": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "33e4245ac6abd8594b8d882155955e10",
+        "version": 1,
+        "domain": "tplink",
+        "title": "Outside christmas lights EP10(US)",
+        "data": {
+          "host": "192.168.1.240"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "54:af:97:e5:58:bd",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "3e5ff91f2cfe0aaeba8c5dfd54101f85",
+        "version": 1,
+        "domain": "speedtestdotnet",
+        "title": "SpeedTest",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+- id: '1701737373048'
+  alias: Toggle Tom Office
+  description: ''
+  trigger:
+  - device_id: d1ff307cc6e5b2c6b9beff9cfe430084
+    domain: hue
+    platform: device
+    type: initial_press
+    subtype: 1
+    unique_id: 554d0d08-5379-4eca-b56c-841137a9dc6f
+  condition: []
+  action:
+  - type: toggle
+    device_id: 31dd410be0f444ca1ad6dabece931a10
+    entity_id: ec0d08fc71a3e503d81053478355c887
+    domain: light
+  - type: toggle
+    device_id: 9b815fdb4c1fd01694b6243744546d54
+    entity_id: 7cd0e7dc49a998cd2d2c5c9b4ab119d9
+    domain: switch
+  mode: single

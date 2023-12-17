@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "bluetooth.passive_update_processor",
+  "data": {
+    "afb276da0a5381e44f85aa5e5585b6b5": {
+      "sensor": {
+        "devices": {
+          "": {
+            "name": "H5075 58B9",
+            "manufacturer": "Govee",
+            "model": "H5072/H5075"
+          }
+        },
+        "entity_descriptions": {
+          "temperature___": {
+            "key": "temperature_°C",
+            "device_class": "temperature",
+            "native_unit_of_measurement": "°C",
+            "state_class": "measurement"
+          },
+          "humidity___": {
+            "key": "humidity_%",
+            "device_class": "humidity",
+            "native_unit_of_measurement": "%",
+            "state_class": "measurement"
+          },
+          "battery___": {
+            "key": "battery_%",
+            "device_class": "battery",
+            "native_unit_of_measurement": "%",
+            "state_class": "measurement"
+          },
+          "signal_strength___": {
+            "key": "signal_strength_dBm",
+            "device_class": "signal_strength",
+            "entity_registry_enabled_default": false,
+            "native_unit_of_measurement": "dBm",
+            "state_class": "measurement"
+          }
+        },
+        "entity_names": {
+          "temperature___": "Temperature",
+          "humidity___": "Humidity",
+          "battery___": "Battery",
+          "signal_strength___": "Signal Strength"
+        },
+        "entity_data": {
+          "temperature___": 19.4,
+          "humidity___": 49.7,
+          "battery___": 100,
+          "signal_strength___": -70
+        }
+      }
+    }
+  }
+}
