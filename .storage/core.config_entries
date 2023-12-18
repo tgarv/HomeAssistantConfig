@@ -251,12 +251,12 @@
         "data": {
           "auth_implementation": "spotify_23eb28bf08cc40998e5dca9144aee4ca",
           "token": {
-            "access_token": "BQClWzcVBSkLnOMNxUWP_ECiLlUUTMO1arRxXY9LI-IX2qnK8eUr_K4RlasFZhnwUokCoKZgADSizSF5d_Ye082njmEYVfRfxncEiwydZXDF2ZSujHDt4Uj12x7hqI6Mp21uHCwy19-GPNZSe87CMb8E2cicoBA0w6xfXa7MUkwGL5lc_2KSa57GfUanatnawOvklBCwCUpK6f186ROOP67cqboDhGbZBpUytOSa",
+            "access_token": "BQDzRD-uJ_KhDCzwXWhonipdTw8eLyt_I5EG-8tzLGUIWob_3unBdLZpF43MyDNkZpvV4yHEC747PPvMr8sI_tioBWTE4AeGntyT7nxIv8BXw6tj1AXsmq4iV9bwrfG1n4-iokKpGIjVA-SxinxjDJL--XPOQZbWb9XTzUO5djZ-eBGuIp2dqtFRhFUYU_2BJbS_p3z8NPDz_0vNVSFRYlHdodVtsqud8f7S_oup",
             "token_type": "Bearer",
             "expires_in": 3600,
             "refresh_token": "AQDPNcWuBN7T2OUSdXtRA7CF38DFxC3aUdi05klkvPpbP4Qw6g0NcoWNx0SkZl2LH4N1QwRPmpmW-hcGuKm88mhTMN1knXHYuF4b3axMjBAxxtKjtoY9sC5i5jXyc5Ep3gc",
             "scope": "playlist-read-private playlist-read-collaborative user-modify-playback-state user-library-read user-follow-read user-read-playback-state user-read-recently-played user-read-playback-position user-read-private user-top-read",
-            "expires_at": 1702856528.8420925
+            "expires_at": 1702916091.8606691
           },
           "id": "tgarvz",
           "name": "tgarvz"

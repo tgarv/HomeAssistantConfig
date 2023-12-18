@@ -3224,8 +3224,9 @@
             "Downstairs",
             "Thomas's Fire TV",
             "Thomas's FireTVStick",
-            "Living room",
+            "Web Player (Chrome)",
             "Office",
+            "Living room",
             "Everywhere"
           ]
         },
@@ -4956,8 +4957,8 @@
             "dry",
             "heat"
           ],
-          "min_temp": 16,
-          "max_temp": 31,
+          "min_temp": 61,
+          "max_temp": 88,
           "target_temp_step": 1,
           "fan_modes": [
             "auto",

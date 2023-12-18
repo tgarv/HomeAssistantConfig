@@ -408,11 +408,11 @@
         "connections": [
           [
             "mac",
-            "00:17:88:47:c4:7c"
+            "00:17:88:01:01:a7:c4:7c"
           ],
           [
             "mac",
-            "00:17:88:01:01:a7:c4:7c"
+            "00:17:88:47:c4:7c"
           ]
         ],
         "disabled_by": null,
@@ -422,11 +422,11 @@
         "identifiers": [
           [
             "hue",
-            "001788fffe47c47c"
+            "f517646a-008a-4c63-aa30-ab557a7e9ff4"
           ],
           [
             "hue",
-            "f517646a-008a-4c63-aa30-ab557a7e9ff4"
+            "001788fffe47c47c"
           ]
         ],
         "manufacturer": "Signify Netherlands B.V.",

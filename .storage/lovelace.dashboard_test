@@ -108,19 +108,13 @@
                   }
                 },
                 {
-                  "type": "state-label",
-                  "entity": "sensor.remote_temperature",
+                  "type": "custom:hui-thermostat-card",
+                  "entity": "climate.tom_office_ac",
+                  "tap_action": "more-info",
                   "style": {
-                    "top": "30%",
-                    "left": "30%"
-                  }
-                },
-                {
-                  "type": "state-label",
-                  "entity": "sensor.remote_humidity",
-                  "style": {
-                    "top": "33%",
-                    "left": "29%"
+                    "top": "10%",
+                    "left": "13%",
+                    "scale": "35%"
                   }
                 }
               ],

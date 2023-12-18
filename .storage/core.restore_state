@@ -20,16 +20,16 @@
           ],
           "friendly_name": "T"
         },
-        "last_changed": "2023-12-17T18:37:23.273972+00:00",
-        "last_updated": "2023-12-17T18:39:01.158618+00:00",
+        "last_changed": "2023-12-18T15:24:17.128751+00:00",
+        "last_updated": "2023-12-18T15:24:43.524770+00:00",
         "context": {
-          "id": "01HHWH63H6VEJ1YHF3XEGCMMP3",
+          "id": "01HHYRF2448NHSBKA2K1GA1AAQ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -48,16 +48,16 @@
           "friendly_name": "Home Assistant Supervisor Update",
           "supported_features": 1
         },
-        "last_changed": "2023-12-17T18:37:31.539418+00:00",
-        "last_updated": "2023-12-17T18:37:31.539418+00:00",
+        "last_changed": "2023-12-18T15:24:26.375073+00:00",
+        "last_updated": "2023-12-18T15:24:26.375073+00:00",
         "context": {
-          "id": "01HHWH3C0KYV3JD3JEQK2MG0J4",
+          "id": "01HHYREHC7YV3JD3JEQK2MG0J4",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -76,16 +76,16 @@
           "friendly_name": "Home Assistant Core Update",
           "supported_features": 11
         },
-        "last_changed": "2023-12-17T18:37:31.541816+00:00",
-        "last_updated": "2023-12-17T18:37:31.541816+00:00",
+        "last_changed": "2023-12-18T15:24:26.377291+00:00",
+        "last_updated": "2023-12-18T15:24:26.377291+00:00",
         "context": {
-          "id": "01HHWH3C0N5QHGN1AANA5P25PS",
+          "id": "01HHYREHC95QHGN1AANA5P25PS",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -104,16 +104,16 @@
           "friendly_name": "File editor Update",
           "supported_features": 25
         },
-        "last_changed": "2023-12-17T18:37:31.542891+00:00",
-        "last_updated": "2023-12-17T18:37:31.542891+00:00",
+        "last_changed": "2023-12-18T15:24:26.378013+00:00",
+        "last_updated": "2023-12-18T15:24:26.378013+00:00",
         "context": {
-          "id": "01HHWH3C0PY16WRZMYNFPRJCZH",
+          "id": "01HHYREHCAY16WRZMYNFPRJCZH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -132,16 +132,16 @@
           "friendly_name": "Terminal & SSH Update",
           "supported_features": 25
         },
-        "last_changed": "2023-12-17T18:37:31.543595+00:00",
-        "last_updated": "2023-12-17T18:37:31.543595+00:00",
+        "last_changed": "2023-12-18T15:24:26.378931+00:00",
+        "last_updated": "2023-12-18T15:24:26.378931+00:00",
         "context": {
-          "id": "01HHWH3C0Q2DRW7ZD7R7NRJEHR",
+          "id": "01HHYREHCA2DRW7ZD7R7NRJEHR",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -160,16 +160,16 @@
           "friendly_name": "Home Assistant Operating System Update",
           "supported_features": 3
         },
-        "last_changed": "2023-12-17T18:37:31.545011+00:00",
-        "last_updated": "2023-12-17T18:37:31.545011+00:00",
+        "last_changed": "2023-12-18T15:24:26.380451+00:00",
+        "last_updated": "2023-12-18T15:24:26.380451+00:00",
         "context": {
-          "id": "01HHWH3C0SWXNC6J04MYGK78VN",
+          "id": "01HHYREHCCWXNC6J04MYGK78VN",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -178,16 +178,16 @@
         "attributes": {
           "friendly_name": "Google en com"
         },
-        "last_changed": "2023-12-17T18:37:37.598971+00:00",
-        "last_updated": "2023-12-17T18:37:37.598971+00:00",
+        "last_changed": "2023-12-18T15:24:31.869628+00:00",
+        "last_updated": "2023-12-18T15:24:31.869628+00:00",
         "context": {
-          "id": "01HHWH3HXY7NBDMXWA3W6GGY10",
+          "id": "01HHYREPQXFG4STE1GA89E0ENY",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -221,11 +221,11 @@
             "swing",
             "auto"
           ],
-          "current_temperature": 67,
-          "temperature": 26,
+          "current_temperature": 68,
+          "temperature": 64,
           "fan_mode": "auto",
           "swing_mode": "position 1",
-          "last_on_operation": "cool",
+          "last_on_operation": "auto",
           "device_code": 1129,
           "manufacturer": "Mitsubishi Electric ",
           "supported_models": [
@@ -236,16 +236,16 @@
           "friendly_name": "Tom Office AC",
           "supported_features": 41
         },
-        "last_changed": "2023-12-17T22:30:43.159725+00:00",
-        "last_updated": "2023-12-17T22:51:37.326548+00:00",
+        "last_changed": "2023-12-18T15:38:28.520289+00:00",
+        "last_updated": "2023-12-18T15:38:28.520289+00:00",
         "context": {
-          "id": "01HHWZMMFE9STVGSDSFNHTC9EM",
+          "id": "01HHYS87S5VHET19AB71MDGG82",
           "parent_id": null,
-          "user_id": null
+          "user_id": "ad61d7e4d8bd47ce9ef7dbb6faa9bbfc"
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -255,16 +255,304 @@
           "friendly_name": "Remote",
           "supported_features": 3
         },
-        "last_changed": "2023-12-17T18:37:37.746390+00:00",
-        "last_updated": "2023-12-17T18:37:37.746390+00:00",
+        "last_changed": "2023-12-18T15:24:32.575061+00:00",
+        "last_updated": "2023-12-18T15:24:32.575061+00:00",
         "context": {
-          "id": "01HHWH3J2JN07XMS7BF8MZST1D",
+          "id": "01HHYREQDZRSBT79PSPYN88A2C",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_nightlight",
+        "state": "2023-12-05T22:26:38.702903+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Nightlight",
+          "speed": 0.5,
+          "brightness": 0.0,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Nightlight"
+        },
+        "last_changed": "2023-12-18T15:24:32.667293+00:00",
+        "last_updated": "2023-12-18T15:24:32.667293+00:00",
+        "context": {
+          "id": "01HHYREQGVNBAEJRMYPV7Z5Y3F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_dimmed",
+        "state": "unknown",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Dimmed",
+          "speed": 0.5,
+          "brightness": 30.04,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Dimmed"
+        },
+        "last_changed": "2023-12-18T15:24:32.667836+00:00",
+        "last_updated": "2023-12-18T15:24:32.667836+00:00",
+        "context": {
+          "id": "01HHYREQGV8CRR0XB4RH0MYC32",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_concentrate",
+        "state": "2023-12-05T22:26:39.862299+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Concentrate",
+          "speed": 0.5,
+          "brightness": 100.0,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Concentrate"
+        },
+        "last_changed": "2023-12-18T15:24:32.668247+00:00",
+        "last_updated": "2023-12-18T15:24:32.668247+00:00",
+        "context": {
+          "id": "01HHYREQGW29T6KXGE0EXSKJWK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_energize",
+        "state": "2023-12-05T22:26:40.841524+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Energize",
+          "speed": 0.5,
+          "brightness": 100.0,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Energize"
+        },
+        "last_changed": "2023-12-18T15:24:32.669156+00:00",
+        "last_updated": "2023-12-18T15:24:32.669156+00:00",
+        "context": {
+          "id": "01HHYREQGXGG46EC80FM5GVAZJ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_arctic_aurora",
+        "state": "unknown",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Arctic aurora",
+          "speed": 0.6388888888888888,
+          "brightness": 45.85,
+          "is_dynamic": true,
+          "friendly_name": "Tom Office Arctic aurora"
+        },
+        "last_changed": "2023-12-18T15:24:32.669591+00:00",
+        "last_updated": "2023-12-18T15:24:32.669591+00:00",
+        "context": {
+          "id": "01HHYREQGX4H2GT1T1PERTZB8P",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_tropical_twilight",
+        "state": "2023-12-05T22:26:31.292952+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Tropical twilight",
+          "speed": 0.6388888888888888,
+          "brightness": 43.48,
+          "is_dynamic": true,
+          "friendly_name": "Tom Office Tropical twilight"
+        },
+        "last_changed": "2023-12-18T15:24:32.670100+00:00",
+        "last_updated": "2023-12-18T15:24:32.670100+00:00",
+        "context": {
+          "id": "01HHYREQGYX0EMASCYWG9XHYBV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_spring_blossom",
+        "state": "2023-12-05T22:26:41.764946+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Spring blossom",
+          "speed": 0.5595238095238095,
+          "brightness": 72.33,
+          "is_dynamic": true,
+          "friendly_name": "Tom Office Spring blossom"
+        },
+        "last_changed": "2023-12-18T15:24:32.670672+00:00",
+        "last_updated": "2023-12-18T15:24:32.670672+00:00",
+        "context": {
+          "id": "01HHYREQGY8RMN54846HHAZHNR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_bright",
+        "state": "2023-12-05T22:26:43.380919+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Bright",
+          "speed": 0.5,
+          "brightness": 100.0,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Bright"
+        },
+        "last_changed": "2023-12-18T15:24:32.671119+00:00",
+        "last_updated": "2023-12-18T15:24:32.671119+00:00",
+        "context": {
+          "id": "01HHYREQGZ0WVQHES2D66YSRE9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_golden_pond",
+        "state": "2023-12-05T22:26:36.528899+00:00",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Golden pond",
+          "speed": 0.626984126984127,
+          "brightness": 64.82,
+          "is_dynamic": true,
+          "friendly_name": "Tom Office Golden pond"
+        },
+        "last_changed": "2023-12-18T15:24:32.671495+00:00",
+        "last_updated": "2023-12-18T15:24:32.671495+00:00",
+        "context": {
+          "id": "01HHYREQGZYFGRB8CSF1Y5RV5A",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_read",
+        "state": "unknown",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Read",
+          "speed": 0.5,
+          "brightness": 100.0,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Read"
+        },
+        "last_changed": "2023-12-18T15:24:32.671872+00:00",
+        "last_updated": "2023-12-18T15:24:32.671872+00:00",
+        "context": {
+          "id": "01HHYREQGZY9WBSP4BDVEF8C3T",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_relax",
+        "state": "unknown",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Relax",
+          "speed": 0.5,
+          "brightness": 56.52,
+          "is_dynamic": false,
+          "friendly_name": "Tom Office Relax"
+        },
+        "last_changed": "2023-12-18T15:24:32.672222+00:00",
+        "last_updated": "2023-12-18T15:24:32.672222+00:00",
+        "context": {
+          "id": "01HHYREQH0XSFT49GPDZMHJRM5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "scene.tom_office_savanna_sunset",
+        "state": "unknown",
+        "attributes": {
+          "group_name": "Tom Office",
+          "group_type": "room",
+          "name": "Savanna sunset",
+          "speed": 0.6190476190476191,
+          "brightness": 66.01,
+          "is_dynamic": true,
+          "friendly_name": "Tom Office Savanna sunset"
+        },
+        "last_changed": "2023-12-18T15:24:32.672942+00:00",
+        "last_updated": "2023-12-18T15:24:32.672942+00:00",
+        "context": {
+          "id": "01HHYREQH0T4YV8AVDTQXA66VD",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -272,13 +560,13 @@
         "state": "Not Charging",
         "attributes": {
           "Low Power Mode": false,
-          "icon": "mdi:battery-50",
+          "icon": "mdi:battery-90",
           "friendly_name": "Tom’s iPhone Battery State"
         },
-        "last_changed": "2023-12-17T18:37:37.783820+00:00",
-        "last_updated": "2023-12-17T21:43:05.381708+00:00",
+        "last_changed": "2023-12-18T15:24:32.695013+00:00",
+        "last_updated": "2023-12-18T15:24:32.695013+00:00",
         "context": {
-          "id": "01HHWVQ4X5XGRA3Q0PVKWYY3NW",
+          "id": "01HHYREQHQ4S1P61C4Z89DCM2K",
           "parent_id": null,
           "user_id": null
         }
@@ -287,7 +575,7 @@
         "native_value": "Not Charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -303,10 +591,10 @@
           "icon": "mdi:sim",
           "friendly_name": "Tom’s iPhone SIM 2"
         },
-        "last_changed": "2023-12-17T18:37:37.784621+00:00",
-        "last_updated": "2023-12-17T18:37:37.784621+00:00",
+        "last_changed": "2023-12-18T15:24:32.695804+00:00",
+        "last_updated": "2023-12-18T15:24:32.695804+00:00",
         "context": {
-          "id": "01HHWH3J3R35RJHF1FHC2JYCFA",
+          "id": "01HHYREQHQE79BG74C3ET60NFX",
           "parent_id": null,
           "user_id": null
         }
@@ -315,7 +603,7 @@
         "native_value": "N/A",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -332,10 +620,10 @@
           "icon": "mdi:sim",
           "friendly_name": "Tom’s iPhone SIM 1"
         },
-        "last_changed": "2023-12-17T18:37:37.786853+00:00",
-        "last_updated": "2023-12-17T18:37:37.786853+00:00",
+        "last_changed": "2023-12-18T15:24:32.696486+00:00",
+        "last_updated": "2023-12-18T15:24:32.696486+00:00",
         "context": {
-          "id": "01HHWH3J3T1QVQHASWPC32PDPK",
+          "id": "01HHYREQHRXSZMQ34SG8RZV93V",
           "parent_id": null,
           "user_id": null
         }
@@ -344,7 +632,7 @@
         "native_value": "Verizon",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -354,10 +642,10 @@
           "icon": "mdi:wifi-off",
           "friendly_name": "Tom’s iPhone BSSID"
         },
-        "last_changed": "2023-12-17T22:32:42.359726+00:00",
-        "last_updated": "2023-12-17T22:32:42.359726+00:00",
+        "last_changed": "2023-12-18T15:42:18.200917+00:00",
+        "last_updated": "2023-12-18T15:42:18.200917+00:00",
         "context": {
-          "id": "01HHWYJ03Q4NEMKZ533BTNN9JG",
+          "id": "01HHYSF82RWGTVSBGK9AEV1ENC",
           "parent_id": null,
           "user_id": null
         }
@@ -366,58 +654,58 @@
         "native_value": "Not Connected",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_storage",
-        "state": "24.85",
+        "state": "25.06",
         "attributes": {
-          "Available": "4.43 GB",
-          "Available (Important)": "52.14 GB",
-          "Available (Opportunistic)": "31.78 GB",
+          "Available": "4.68 GB",
+          "Available (Important)": "52.03 GB",
+          "Available (Opportunistic)": "32.05 GB",
           "Total": "127.88 GB",
           "unit_of_measurement": "% available",
           "icon": "mdi:database",
           "friendly_name": "Tom’s iPhone Storage"
         },
-        "last_changed": "2023-12-17T23:21:23.904793+00:00",
-        "last_updated": "2023-12-17T23:21:23.904793+00:00",
+        "last_changed": "2023-12-18T15:52:18.912753+00:00",
+        "last_updated": "2023-12-18T15:52:43.630741+00:00",
         "context": {
-          "id": "01HHX1B5609XACTQCDC3615P9W",
+          "id": "01HHYT2AVEX26DAVW778G0P2WH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "24.85",
+        "native_value": "25.06",
         "native_unit_of_measurement": "% available"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_battery_level",
-        "state": "50",
+        "state": "90",
         "attributes": {
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-50",
+          "icon": "mdi:battery-90",
           "friendly_name": "Tom’s iPhone Battery Level"
         },
-        "last_changed": "2023-12-17T22:27:13.835943+00:00",
-        "last_updated": "2023-12-17T22:27:13.835943+00:00",
+        "last_changed": "2023-12-18T15:52:18.911511+00:00",
+        "last_updated": "2023-12-18T15:52:18.911511+00:00",
         "context": {
-          "id": "01HHWY7Z9BSNED9RDCDKT3WFV8",
+          "id": "01HHYT1JPZWNHWQBE5YE1Z90MR",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 50,
+        "native_value": 90,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -427,10 +715,10 @@
           "icon": "mdi:wifi-off",
           "friendly_name": "Tom’s iPhone SSID"
         },
-        "last_changed": "2023-12-17T22:32:42.359242+00:00",
-        "last_updated": "2023-12-17T22:32:42.359242+00:00",
+        "last_changed": "2023-12-18T15:42:18.200279+00:00",
+        "last_updated": "2023-12-18T15:42:18.200279+00:00",
         "context": {
-          "id": "01HHWYJ03QXK6SR6Z69ME11JRW",
+          "id": "01HHYSF82RXZV92X5ZH6KCMP2P",
           "parent_id": null,
           "user_id": null
         }
@@ -439,7 +727,7 @@
         "native_value": "Not Connected",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -470,10 +758,10 @@
           "icon": "mdi:map",
           "friendly_name": "Tom’s iPhone Geocoded Location"
         },
-        "last_changed": "2023-12-17T18:37:37.791154+00:00",
-        "last_updated": "2023-12-17T18:39:01.336446+00:00",
+        "last_changed": "2023-12-18T15:24:32.699844+00:00",
+        "last_updated": "2023-12-18T15:24:32.699844+00:00",
         "context": {
-          "id": "01HHWH63PRJN10G7S4K2RG6FDB",
+          "id": "01HHYREQHVRASHVFFAN0FZQMCB",
           "parent_id": null,
           "user_id": null
         }
@@ -482,7 +770,7 @@
         "native_value": "12 Virgil Rd\nBoston MA 02132\nUnited States",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -492,10 +780,10 @@
           "icon": "mdi:cellphone-wireless",
           "friendly_name": "Tom’s iPhone Last Update Trigger"
         },
-        "last_changed": "2023-12-17T22:32:42.364845+00:00",
-        "last_updated": "2023-12-17T22:32:42.364845+00:00",
+        "last_changed": "2023-12-18T15:37:17.812765+00:00",
+        "last_updated": "2023-12-18T15:37:17.812765+00:00",
         "context": {
-          "id": "01HHWYJ03W0WP9ZE7RAQ3NN0M3",
+          "id": "01HHYS62QMGRRPRWXJGB946TS3",
           "parent_id": null,
           "user_id": null
         }
@@ -504,7 +792,7 @@
         "native_value": "Periodic",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -514,10 +802,10 @@
           "icon": "mdi:wifi",
           "friendly_name": "Tom’s iPhone Connection Type"
         },
-        "last_changed": "2023-12-17T18:37:37.792704+00:00",
-        "last_updated": "2023-12-17T18:37:37.792704+00:00",
+        "last_changed": "2023-12-18T15:24:32.701082+00:00",
+        "last_updated": "2023-12-18T15:24:32.701082+00:00",
         "context": {
-          "id": "01HHWH3J40F959RQ7TNECYZ705",
+          "id": "01HHYREQHX3YTYMZDEBCW3ZK0G",
           "parent_id": null,
           "user_id": null
         }
@@ -526,79 +814,79 @@
         "native_value": "Wi-Fi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_activity",
-        "state": "Stationary",
+        "state": "Unknown",
         "attributes": {
           "Confidence": "High",
           "Types": [
-            "Stationary"
+            "Unknown"
           ],
-          "icon": "mdi:human-male",
+          "icon": "mdi:help-circle",
           "friendly_name": "Tom’s iPhone Activity"
         },
-        "last_changed": "2023-12-17T22:32:42.355350+00:00",
-        "last_updated": "2023-12-17T22:32:42.355350+00:00",
+        "last_changed": "2023-12-18T15:36:41.839850+00:00",
+        "last_updated": "2023-12-18T15:36:41.839850+00:00",
         "context": {
-          "id": "01HHWYJ03KS8K6GASRF29818F5",
+          "id": "01HHYS4ZKF2WTHV76RTGK9T1TK",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "Stationary",
+        "native_value": "Unknown",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_distance",
-        "state": "3210",
+        "state": "815",
         "attributes": {
           "unit_of_measurement": "m",
           "icon": "mdi:hiking",
           "friendly_name": "Tom’s iPhone Distance"
         },
-        "last_changed": "2023-12-17T23:13:11.142273+00:00",
-        "last_updated": "2023-12-17T23:13:11.142273+00:00",
+        "last_changed": "2023-12-18T15:47:18.550125+00:00",
+        "last_updated": "2023-12-18T15:47:18.550125+00:00",
         "context": {
-          "id": "01HHX0W3Z6WTR29NT2129F878B",
+          "id": "01HHYSRDCPZ01BAZFKPRMQ7Z1E",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 3210,
+        "native_value": 815,
         "native_unit_of_measurement": "m"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_floors_ascended",
-        "state": "14",
+        "state": "5",
         "attributes": {
           "unit_of_measurement": "floors",
           "icon": "mdi:stairs-up",
           "friendly_name": "Tom’s iPhone Floors Ascended"
         },
-        "last_changed": "2023-12-17T22:07:12.325265+00:00",
-        "last_updated": "2023-12-17T22:07:12.325265+00:00",
+        "last_changed": "2023-12-18T15:24:32.703235+00:00",
+        "last_updated": "2023-12-18T15:24:32.703235+00:00",
         "context": {
-          "id": "01HHWX39Y5BTKD8BRFYP3JHZMD",
+          "id": "01HHYREQHZQ8PCN6MMVWNFMDFN",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 14,
+        "native_value": 5,
         "native_unit_of_measurement": "floors"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -609,10 +897,10 @@
           "icon": "mdi:speedometer",
           "friendly_name": "Tom’s iPhone Average Active Pace"
         },
-        "last_changed": "2023-12-17T18:37:37.795866+00:00",
-        "last_updated": "2023-12-17T18:37:37.795866+00:00",
+        "last_changed": "2023-12-18T15:24:32.704973+00:00",
+        "last_updated": "2023-12-18T15:24:32.704973+00:00",
         "context": {
-          "id": "01HHWH3J43JKG1JDR5PN18C143",
+          "id": "01HHYREQJ0RSGA3TN666RR4BWJ",
           "parent_id": null,
           "user_id": null
         }
@@ -621,53 +909,53 @@
         "native_value": 1,
         "native_unit_of_measurement": "m/s"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_floors_descended",
-        "state": "16",
+        "state": "3",
         "attributes": {
           "unit_of_measurement": "floors",
           "icon": "mdi:stairs-down",
           "friendly_name": "Tom’s iPhone Floors Descended"
         },
-        "last_changed": "2023-12-17T23:13:11.143528+00:00",
-        "last_updated": "2023-12-17T23:13:11.143528+00:00",
+        "last_changed": "2023-12-18T15:24:32.705663+00:00",
+        "last_updated": "2023-12-18T15:24:32.705663+00:00",
         "context": {
-          "id": "01HHX0W3Z73Y1BS7VA10GSTA47",
+          "id": "01HHYREQJ193TNH9G2KCNEGRGD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 16,
+        "native_value": 3,
         "native_unit_of_measurement": "floors"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.toms_iphone_steps",
-        "state": "4835",
+        "state": "1161",
         "attributes": {
           "unit_of_measurement": "steps",
           "icon": "mdi:walk",
           "friendly_name": "Tom’s iPhone Steps"
         },
-        "last_changed": "2023-12-17T23:13:11.144102+00:00",
-        "last_updated": "2023-12-17T23:13:11.144102+00:00",
+        "last_changed": "2023-12-18T15:47:18.551642+00:00",
+        "last_updated": "2023-12-18T15:47:18.551642+00:00",
         "context": {
-          "id": "01HHX0W3Z8R4MMT7PA79KHXMTD",
+          "id": "01HHYSRDCQBBJFG7F5XQ3TMDMF",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 4835,
+        "native_value": 1161,
         "native_unit_of_measurement": "steps"
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -677,69 +965,16 @@
           "icon": "mdi:moon-waning-crescent",
           "friendly_name": "Tom’s iPhone Focus"
         },
-        "last_changed": "2023-12-17T18:37:37.798882+00:00",
-        "last_updated": "2023-12-17T18:37:37.798882+00:00",
+        "last_changed": "2023-12-18T15:24:32.713034+00:00",
+        "last_updated": "2023-12-18T15:24:32.713034+00:00",
         "context": {
-          "id": "01HHWH3J461WZZQXN1629MZS8S",
+          "id": "01HHYREQJ9JSXA201YVEZAJAWH",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "device_tracker.toms_iphone",
-        "state": "home",
-        "attributes": {
-          "source_type": "gps",
-          "battery_level": 70,
-          "latitude": 42.2833251953125,
-          "longitude": -71.16219483338018,
-          "gps_accuracy": 12.720759716376207,
-          "altitude": 39.42961883544922,
-          "vertical_accuracy": 18.92415428161621,
-          "friendly_name": "Tom’s iPhone"
-        },
-        "last_changed": "2023-12-17T18:39:01.153155+00:00",
-        "last_updated": "2023-12-17T18:39:01.153155+00:00",
-        "context": {
-          "id": "01HHWH63H18AYE7X5PSQC5298Q",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.smartir_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "1.17.9",
-          "in_progress": false,
-          "latest_version": "1.17.9",
-          "release_summary": null,
-          "release_url": "https://github.com/smartHomeHub/SmartIR/releases/1.17.9",
-          "skipped_version": null,
-          "title": null,
-          "entity_picture": "https://brands.home-assistant.io/_/smartir/icon.png",
-          "friendly_name": "SmartIR update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-12-17T18:37:37.825972+00:00",
-        "last_updated": "2023-12-17T18:37:37.825972+00:00",
-        "context": {
-          "id": "01HHWH3J5129T6KXGE0EXSKJWK",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -758,309 +993,21 @@
           "friendly_name": "HACS update",
           "supported_features": 21
         },
-        "last_changed": "2023-12-17T18:37:37.826726+00:00",
-        "last_updated": "2023-12-17T18:37:37.826726+00:00",
+        "last_changed": "2023-12-18T15:24:32.719244+00:00",
+        "last_updated": "2023-12-18T15:24:32.719244+00:00",
         "context": {
-          "id": "01HHWH3J52GG46EC80FM5GVAZJ",
+          "id": "01HHYREQJFTYWZGJSBJ1EW6XEF",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_nightlight",
-        "state": "2023-12-05T22:26:38.702903+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Nightlight",
-          "speed": 0.5,
-          "brightness": 0.0,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Nightlight"
-        },
-        "last_changed": "2023-12-17T18:37:37.869855+00:00",
-        "last_updated": "2023-12-17T18:37:37.869855+00:00",
-        "context": {
-          "id": "01HHWH3J6DXQ7G4NQJDF76TTVH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_dimmed",
-        "state": "unknown",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Dimmed",
-          "speed": 0.5,
-          "brightness": 30.04,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Dimmed"
-        },
-        "last_changed": "2023-12-17T18:37:37.870550+00:00",
-        "last_updated": "2023-12-17T18:37:37.870550+00:00",
-        "context": {
-          "id": "01HHWH3J6E76TP9HC55MA0HJHE",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_concentrate",
-        "state": "2023-12-05T22:26:39.862299+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Concentrate",
-          "speed": 0.5,
-          "brightness": 100.0,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Concentrate"
-        },
-        "last_changed": "2023-12-17T18:37:37.871535+00:00",
-        "last_updated": "2023-12-17T18:37:37.871535+00:00",
-        "context": {
-          "id": "01HHWH3J6F680W9GBFAJH9ASES",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_energize",
-        "state": "2023-12-05T22:26:40.841524+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Energize",
-          "speed": 0.5,
-          "brightness": 100.0,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Energize"
-        },
-        "last_changed": "2023-12-17T18:37:37.872252+00:00",
-        "last_updated": "2023-12-17T18:37:37.872252+00:00",
-        "context": {
-          "id": "01HHWH3J6G66FWJM3DSC5K7ZG0",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_arctic_aurora",
-        "state": "unknown",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Arctic aurora",
-          "speed": 0.6388888888888888,
-          "brightness": 45.85,
-          "is_dynamic": true,
-          "friendly_name": "Tom Office Arctic aurora"
-        },
-        "last_changed": "2023-12-17T18:37:37.872951+00:00",
-        "last_updated": "2023-12-17T18:37:37.872951+00:00",
-        "context": {
-          "id": "01HHWH3J6GRASHVFFAN0FZQMCB",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_tropical_twilight",
-        "state": "2023-12-05T22:26:31.292952+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Tropical twilight",
-          "speed": 0.6388888888888888,
-          "brightness": 43.48,
-          "is_dynamic": true,
-          "friendly_name": "Tom Office Tropical twilight"
-        },
-        "last_changed": "2023-12-17T18:37:37.873446+00:00",
-        "last_updated": "2023-12-17T18:37:37.873446+00:00",
-        "context": {
-          "id": "01HHWH3J6HFCS836DRMGVW5Q7X",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_spring_blossom",
-        "state": "2023-12-05T22:26:41.764946+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Spring blossom",
-          "speed": 0.5595238095238095,
-          "brightness": 72.33,
-          "is_dynamic": true,
-          "friendly_name": "Tom Office Spring blossom"
-        },
-        "last_changed": "2023-12-17T18:37:37.874014+00:00",
-        "last_updated": "2023-12-17T18:37:37.874014+00:00",
-        "context": {
-          "id": "01HHWH3J6J3YTYMZDEBCW3ZK0G",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_bright",
-        "state": "2023-12-05T22:26:43.380919+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Bright",
-          "speed": 0.5,
-          "brightness": 100.0,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Bright"
-        },
-        "last_changed": "2023-12-17T18:37:37.874519+00:00",
-        "last_updated": "2023-12-17T18:37:37.874519+00:00",
-        "context": {
-          "id": "01HHWH3J6JMA0GGHC97E9K2193",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_golden_pond",
-        "state": "2023-12-05T22:26:36.528899+00:00",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Golden pond",
-          "speed": 0.626984126984127,
-          "brightness": 64.82,
-          "is_dynamic": true,
-          "friendly_name": "Tom Office Golden pond"
-        },
-        "last_changed": "2023-12-17T18:37:37.874963+00:00",
-        "last_updated": "2023-12-17T18:37:37.874963+00:00",
-        "context": {
-          "id": "01HHWH3J6J8HEAGBPMFQG40G2R",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_read",
-        "state": "unknown",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Read",
-          "speed": 0.5,
-          "brightness": 100.0,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Read"
-        },
-        "last_changed": "2023-12-17T18:37:37.875424+00:00",
-        "last_updated": "2023-12-17T18:37:37.875424+00:00",
-        "context": {
-          "id": "01HHWH3J6KQ8PCN6MMVWNFMDFN",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_relax",
-        "state": "unknown",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Relax",
-          "speed": 0.5,
-          "brightness": 56.52,
-          "is_dynamic": false,
-          "friendly_name": "Tom Office Relax"
-        },
-        "last_changed": "2023-12-17T18:37:37.876087+00:00",
-        "last_updated": "2023-12-17T18:37:37.876087+00:00",
-        "context": {
-          "id": "01HHWH3J6MRSGA3TN666RR4BWJ",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "scene.tom_office_savanna_sunset",
-        "state": "unknown",
-        "attributes": {
-          "group_name": "Tom Office",
-          "group_type": "room",
-          "name": "Savanna sunset",
-          "speed": 0.6190476190476191,
-          "brightness": 66.01,
-          "is_dynamic": true,
-          "friendly_name": "Tom Office Savanna sunset"
-        },
-        "last_changed": "2023-12-17T18:37:37.876595+00:00",
-        "last_updated": "2023-12-17T18:37:37.876595+00:00",
-        "context": {
-          "id": "01HHWH3J6M93TNH9G2KCNEGRGD",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "event.hue_dimmer_switch_1_button_1",
-        "state": "2023-12-17T19:31:28.251+00:00",
+        "state": "2023-12-18T15:09:30.693+00:00",
         "attributes": {
           "event_types": [
             "initial_press",
@@ -1073,10 +1020,10 @@
           "device_class": "button",
           "friendly_name": "Hue dimmer switch 1 Button 1"
         },
-        "last_changed": "2023-12-17T19:31:28.252192+00:00",
-        "last_updated": "2023-12-17T19:31:28.252192+00:00",
+        "last_changed": "2023-12-18T15:24:32.721455+00:00",
+        "last_updated": "2023-12-18T15:24:32.721455+00:00",
         "context": {
-          "id": "01HHWM64VWFSR59BC4Y6RRJZS9",
+          "id": "01HHYREQJHW5S3HFZ4PFK720ZP",
           "parent_id": null,
           "user_id": null
         }
@@ -1085,7 +1032,7 @@
         "last_event_type": "short_release",
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1103,10 +1050,10 @@
           "device_class": "button",
           "friendly_name": "Hue dimmer switch 1 Button 2"
         },
-        "last_changed": "2023-12-17T18:37:37.899335+00:00",
-        "last_updated": "2023-12-17T18:37:37.899335+00:00",
+        "last_changed": "2023-12-18T15:24:32.722306+00:00",
+        "last_updated": "2023-12-18T15:24:32.722306+00:00",
         "context": {
-          "id": "01HHWH3J7BG561S9JSTFDSH9NJ",
+          "id": "01HHYREQJJG561S9JSTFDSH9NJ",
           "parent_id": null,
           "user_id": null
         }
@@ -1115,7 +1062,7 @@
         "last_event_type": "short_release",
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1133,10 +1080,10 @@
           "device_class": "button",
           "friendly_name": "Hue dimmer switch 1 Button 3"
         },
-        "last_changed": "2023-12-17T18:37:37.899819+00:00",
-        "last_updated": "2023-12-17T18:37:37.899819+00:00",
+        "last_changed": "2023-12-18T15:24:32.723145+00:00",
+        "last_updated": "2023-12-18T15:24:32.723145+00:00",
         "context": {
-          "id": "01HHWH3J7B1MMEGQ3E2E81J0J8",
+          "id": "01HHYREQJK1MMEGQ3E2E81J0J8",
           "parent_id": null,
           "user_id": null
         }
@@ -1145,12 +1092,12 @@
         "last_event_type": "short_release",
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
         "entity_id": "event.hue_dimmer_switch_1_button_4",
-        "state": "2023-12-17T04:48:41.882+00:00",
+        "state": "2023-12-18T02:27:19.074+00:00",
         "attributes": {
           "event_types": [
             "initial_press",
@@ -1163,10 +1110,10 @@
           "device_class": "button",
           "friendly_name": "Hue dimmer switch 1 Button 4"
         },
-        "last_changed": "2023-12-17T18:37:37.900340+00:00",
-        "last_updated": "2023-12-17T18:37:37.900340+00:00",
+        "last_changed": "2023-12-18T15:24:32.723829+00:00",
+        "last_updated": "2023-12-18T15:24:32.723829+00:00",
         "context": {
-          "id": "01HHWH3J7CNPV32MDFSGYFRCJ9",
+          "id": "01HHYREQJKNPV32MDFSGYFRCJ9",
           "parent_id": null,
           "user_id": null
         }
@@ -1175,7 +1122,32 @@
         "last_event_type": "short_release",
         "last_event_attributes": null
       },
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "device_tracker.toms_iphone",
+        "state": "home",
+        "attributes": {
+          "source_type": "gps",
+          "battery_level": 45,
+          "latitude": 42.2833251953125,
+          "longitude": -71.16219483338018,
+          "gps_accuracy": 12.720759716376207,
+          "altitude": 40.962257385253906,
+          "vertical_accuracy": 20.256227493286133,
+          "friendly_name": "Tom’s iPhone"
+        },
+        "last_changed": "2023-12-18T15:24:32.725874+00:00",
+        "last_updated": "2023-12-18T15:24:32.725874+00:00",
+        "context": {
+          "id": "01HHYREQJN3HMW8RY29B2SMEC1",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1206,7 +1178,7 @@
             "Web Browser",
             "YouTube"
           ],
-          "volume_level": 0.0,
+          "volume_level": 0.3,
           "is_volume_muted": false,
           "source": "HDMI 2",
           "sound_output": "external_arc",
@@ -1215,16 +1187,16 @@
           "friendly_name": "[LG] webOS TV OLED65CXPUA",
           "supported_features": 24377
         },
-        "last_changed": "2023-12-17T18:37:37.910996+00:00",
-        "last_updated": "2023-12-17T18:37:37.910996+00:00",
+        "last_changed": "2023-12-18T15:24:32.736285+00:00",
+        "last_updated": "2023-12-18T15:24:32.736285+00:00",
         "context": {
-          "id": "01HHWH3J7PQNKZ4F6CDBDWH2Y5",
+          "id": "01HHYREQK03JBAGEXT5NGZXC8D",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1233,16 +1205,16 @@
         "attributes": {
           "friendly_name": "LG webOS TV 8233 Identify"
         },
-        "last_changed": "2023-12-17T18:37:38.037475+00:00",
-        "last_updated": "2023-12-17T18:37:38.037475+00:00",
+        "last_changed": "2023-12-18T15:24:32.897474+00:00",
+        "last_updated": "2023-12-18T15:24:32.897474+00:00",
         "context": {
-          "id": "01HHWH3JBNFP729W56DHPE828Y",
+          "id": "01HHYREQR11D75FFMD9PGMNER0",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1250,21 +1222,21 @@
         "state": "on",
         "attributes": {
           "id": "1701737373048",
-          "last_triggered": "2023-12-17T19:31:27.243095+00:00",
+          "last_triggered": "2023-12-18T15:09:29.684008+00:00",
           "mode": "single",
           "current": 0,
           "friendly_name": "Toggle Tom Office"
         },
-        "last_changed": "2023-12-17T18:37:40.373635+00:00",
-        "last_updated": "2023-12-17T19:31:27.462916+00:00",
+        "last_changed": "2023-12-18T15:24:35.174430+00:00",
+        "last_updated": "2023-12-18T15:24:35.174430+00:00",
         "context": {
-          "id": "01HHWM63WA476GBDTZSVH2Q8X8",
-          "parent_id": "01HHWM63W8P87X8B08QN3AG7PE",
+          "id": "01HHYRESZ642Y6YRPPBTJ28KKY",
+          "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
     },
     {
       "state": {
@@ -1274,20 +1246,40 @@
           "last_event_info": "Camera Detected Motion",
           "last_event_sensor_name": "Front Door",
           "last_event_sensor_type": "doorbell",
-          "last_event_timestamp": 1702835893,
+          "last_event_timestamp": 1702911772,
           "system_id": 4671543,
           "friendly_name": "Alarm control panel Clear notifications"
         },
-        "last_changed": "2023-12-17T18:37:50.181945+00:00",
-        "last_updated": "2023-12-17T18:37:50.181945+00:00",
+        "last_changed": "2023-12-18T15:24:38.993255+00:00",
+        "last_updated": "2023-12-18T15:24:38.993255+00:00",
         "context": {
-          "id": "01HHWH3Y7528SBZN6193176MM5",
+          "id": "01HHYREXPHM6EZA4YYQ0E9H214",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-12-17T23:22:54.234075+00:00"
+      "last_seen": "2023-12-18T15:54:43.526956+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.smartir_update",
+        "state": "unavailable",
+        "attributes": {
+          "entity_picture": "https://brands.home-assistant.io/_/smartir/icon.png",
+          "friendly_name": "SmartIR update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-12-17T23:27:01.986501+00:00",
+        "last_updated": "2023-12-17T23:27:01.986501+00:00",
+        "context": {
+          "id": "01HHX1NFB2FEB69W7BZEY5CTAC",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-12-17T23:27:01.995042+00:00"
     },
     {
       "state": {

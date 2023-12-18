@@ -10,6 +10,7 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 smartir:
+  check_updates: false
 template:
 
 # From https://community.home-assistant.io/t/convert-celsius-to-fahrenheit-in-sensor/271388/3

@@ -46,10 +46,10 @@
           "signal_strength___": "Signal Strength"
         },
         "entity_data": {
-          "temperature___": 19.8,
-          "humidity___": 49.3,
+          "temperature___": 18.8,
+          "humidity___": 63.4,
           "battery___": 100,
-          "signal_strength___": -65
+          "signal_strength___": -71
         }
       }
     }

@@ -7,278 +7,6 @@
       {
         "extended_dict": {
           "last_step": "action/1",
-          "run_id": "fd5f7df7bae1ade873dafc64833bfbcf",
-          "state": "stopped",
-          "script_execution": "finished",
-          "timestamp": {
-            "start": "2023-12-14T14:34:38.531571+00:00",
-            "finish": "2023-12-14T14:34:38.780200+00:00"
-          },
-          "domain": "automation",
-          "item_id": "1701737373048",
-          "trigger": "event 'hue_event'",
-          "trace": {
-            "trigger/0": [
-              {
-                "path": "trigger/0",
-                "timestamp": "2023-12-14T14:34:38.531783+00:00",
-                "changed_variables": {
-                  "this": {
-                    "entity_id": "automation.toggle_tom_office",
-                    "state": "on",
-                    "attributes": {
-                      "id": "1701737373048",
-                      "last_triggered": "2023-12-12T16:58:45.340960+00:00",
-                      "mode": "single",
-                      "current": 0,
-                      "friendly_name": "Toggle Tom Office"
-                    },
-                    "last_changed": "2023-12-13T17:02:34.338924+00:00",
-                    "last_updated": "2023-12-13T17:02:34.338924+00:00",
-                    "context": {
-                      "id": "01HHJ22MB276D0PA0G28CXS7G5",
-                      "parent_id": null,
-                      "user_id": null
-                    }
-                  },
-                  "trigger": {
-                    "id": "0",
-                    "idx": "0",
-                    "alias": null,
-                    "platform": "device",
-                    "event": {
-                      "event_type": "hue_event",
-                      "data": {
-                        "id": "hue_dimmer_switch_1_button",
-                        "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
-                        "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f",
-                        "type": "initial_press",
-                        "subtype": 1
-                      },
-                      "origin": "LOCAL",
-                      "time_fired": "2023-12-14T14:34:38.527769+00:00",
-                      "context": {
-                        "id": "01HHMC0FHZGRNFV575EKYA7AS5",
-                        "parent_id": null,
-                        "user_id": null
-                      }
-                    },
-                    "description": "event 'hue_event'"
-                  }
-                }
-              }
-            ],
-            "action/0": [
-              {
-                "path": "action/0",
-                "timestamp": "2023-12-14T14:34:38.536713+00:00",
-                "changed_variables": {
-                  "context": {
-                    "id": "01HHMC0FJ3KWV6212NVM0YK049",
-                    "parent_id": "01HHMC0FHZGRNFV575EKYA7AS5",
-                    "user_id": null
-                  }
-                }
-              }
-            ],
-            "action/1": [
-              {
-                "path": "action/1",
-                "timestamp": "2023-12-14T14:34:38.745006+00:00"
-              }
-            ]
-          },
-          "config": {
-            "id": "1701737373048",
-            "alias": "Toggle Tom Office",
-            "description": "",
-            "trigger": [
-              {
-                "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
-                "domain": "hue",
-                "platform": "device",
-                "type": "initial_press",
-                "subtype": 1,
-                "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f"
-              }
-            ],
-            "condition": [],
-            "action": [
-              {
-                "type": "toggle",
-                "device_id": "31dd410be0f444ca1ad6dabece931a10",
-                "entity_id": "ec0d08fc71a3e503d81053478355c887",
-                "domain": "light"
-              },
-              {
-                "type": "toggle",
-                "device_id": "9b815fdb4c1fd01694b6243744546d54",
-                "entity_id": "7cd0e7dc49a998cd2d2c5c9b4ab119d9",
-                "domain": "switch"
-              }
-            ],
-            "mode": "single"
-          },
-          "blueprint_inputs": null,
-          "context": {
-            "id": "01HHMC0FJ3KWV6212NVM0YK049",
-            "parent_id": "01HHMC0FHZGRNFV575EKYA7AS5",
-            "user_id": null
-          }
-        },
-        "short_dict": {
-          "last_step": "action/1",
-          "run_id": "fd5f7df7bae1ade873dafc64833bfbcf",
-          "state": "stopped",
-          "script_execution": "finished",
-          "timestamp": {
-            "start": "2023-12-14T14:34:38.531571+00:00",
-            "finish": "2023-12-14T14:34:38.780200+00:00"
-          },
-          "domain": "automation",
-          "item_id": "1701737373048",
-          "trigger": "event 'hue_event'"
-        }
-      },
-      {
-        "extended_dict": {
-          "last_step": "action/1",
-          "run_id": "c84b548df0abf0182c66a5a9ee2b65f0",
-          "state": "stopped",
-          "script_execution": "finished",
-          "timestamp": {
-            "start": "2023-12-14T21:04:24.787782+00:00",
-            "finish": "2023-12-14T21:04:25.032360+00:00"
-          },
-          "domain": "automation",
-          "item_id": "1701737373048",
-          "trigger": "event 'hue_event'",
-          "trace": {
-            "trigger/0": [
-              {
-                "path": "trigger/0",
-                "timestamp": "2023-12-14T21:04:24.787980+00:00",
-                "changed_variables": {
-                  "this": {
-                    "entity_id": "automation.toggle_tom_office",
-                    "state": "on",
-                    "attributes": {
-                      "id": "1701737373048",
-                      "last_triggered": "2023-12-14T14:34:38.532171+00:00",
-                      "mode": "single",
-                      "current": 0,
-                      "friendly_name": "Toggle Tom Office"
-                    },
-                    "last_changed": "2023-12-14T20:47:09.379621+00:00",
-                    "last_updated": "2023-12-14T20:47:09.379621+00:00",
-                    "context": {
-                      "id": "01HHN1AJJ37KGSX3RY5T84MT4Y",
-                      "parent_id": null,
-                      "user_id": null
-                    }
-                  },
-                  "trigger": {
-                    "id": "0",
-                    "idx": "0",
-                    "alias": null,
-                    "platform": "device",
-                    "event": {
-                      "event_type": "hue_event",
-                      "data": {
-                        "id": "hue_dimmer_switch_1_button",
-                        "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
-                        "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f",
-                        "type": "initial_press",
-                        "subtype": 1
-                      },
-                      "origin": "LOCAL",
-                      "time_fired": "2023-12-14T21:04:24.783533+00:00",
-                      "context": {
-                        "id": "01HHN2A5PFVHET19AB71MDGG82",
-                        "parent_id": null,
-                        "user_id": null
-                      }
-                    },
-                    "description": "event 'hue_event'"
-                  }
-                }
-              }
-            ],
-            "action/0": [
-              {
-                "path": "action/0",
-                "timestamp": "2023-12-14T21:04:24.792695+00:00",
-                "changed_variables": {
-                  "context": {
-                    "id": "01HHN2A5PKY7H0SWVDJYPAKSG8",
-                    "parent_id": "01HHN2A5PFVHET19AB71MDGG82",
-                    "user_id": null
-                  }
-                }
-              }
-            ],
-            "action/1": [
-              {
-                "path": "action/1",
-                "timestamp": "2023-12-14T21:04:24.999126+00:00"
-              }
-            ]
-          },
-          "config": {
-            "id": "1701737373048",
-            "alias": "Toggle Tom Office",
-            "description": "",
-            "trigger": [
-              {
-                "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
-                "domain": "hue",
-                "platform": "device",
-                "type": "initial_press",
-                "subtype": 1,
-                "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f"
-              }
-            ],
-            "condition": [],
-            "action": [
-              {
-                "type": "toggle",
-                "device_id": "31dd410be0f444ca1ad6dabece931a10",
-                "entity_id": "ec0d08fc71a3e503d81053478355c887",
-                "domain": "light"
-              },
-              {
-                "type": "toggle",
-                "device_id": "9b815fdb4c1fd01694b6243744546d54",
-                "entity_id": "7cd0e7dc49a998cd2d2c5c9b4ab119d9",
-                "domain": "switch"
-              }
-            ],
-            "mode": "single"
-          },
-          "blueprint_inputs": null,
-          "context": {
-            "id": "01HHN2A5PKY7H0SWVDJYPAKSG8",
-            "parent_id": "01HHN2A5PFVHET19AB71MDGG82",
-            "user_id": null
-          }
-        },
-        "short_dict": {
-          "last_step": "action/1",
-          "run_id": "c84b548df0abf0182c66a5a9ee2b65f0",
-          "state": "stopped",
-          "script_execution": "finished",
-          "timestamp": {
-            "start": "2023-12-14T21:04:24.787782+00:00",
-            "finish": "2023-12-14T21:04:25.032360+00:00"
-          },
-          "domain": "automation",
-          "item_id": "1701737373048",
-          "trigger": "event 'hue_event'"
-        }
-      },
-      {
-        "extended_dict": {
-          "last_step": "action/1",
           "run_id": "8a5848f4f80d89eb91f249d631571a08",
           "state": "stopped",
           "script_execution": "finished",
@@ -678,6 +406,278 @@
           "timestamp": {
             "start": "2023-12-16T21:39:02.449367+00:00",
             "finish": "2023-12-16T21:39:02.544140+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1701737373048",
+          "trigger": "event 'hue_event'"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/1",
+          "run_id": "0b94fae07970a22c4288ef272928253f",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2023-12-17T19:31:27.242631+00:00",
+            "finish": "2023-12-17T19:31:27.463246+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1701737373048",
+          "trigger": "event 'hue_event'",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2023-12-17T19:31:27.242827+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.toggle_tom_office",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1701737373048",
+                      "last_triggered": "2023-12-16T21:39:02.450010+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "Toggle Tom Office"
+                    },
+                    "last_changed": "2023-12-17T18:37:40.373635+00:00",
+                    "last_updated": "2023-12-17T18:37:40.373635+00:00",
+                    "context": {
+                      "id": "01HHWH3MMNP1ET9PM4N1PFHA00",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "device",
+                    "event": {
+                      "event_type": "hue_event",
+                      "data": {
+                        "id": "hue_dimmer_switch_1_button",
+                        "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
+                        "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f",
+                        "type": "initial_press",
+                        "subtype": 1
+                      },
+                      "origin": "LOCAL",
+                      "time_fired": "2023-12-17T19:31:27.240440+00:00",
+                      "context": {
+                        "id": "01HHWM63W8P87X8B08QN3AG7PE",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "description": "event 'hue_event'"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2023-12-17T19:31:27.243638+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01HHWM63WA476GBDTZSVH2Q8X8",
+                    "parent_id": "01HHWM63W8P87X8B08QN3AG7PE",
+                    "user_id": null
+                  }
+                }
+              }
+            ],
+            "action/1": [
+              {
+                "path": "action/1",
+                "timestamp": "2023-12-17T19:31:27.436186+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1701737373048",
+            "alias": "Toggle Tom Office",
+            "description": "",
+            "trigger": [
+              {
+                "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
+                "domain": "hue",
+                "platform": "device",
+                "type": "initial_press",
+                "subtype": 1,
+                "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "type": "toggle",
+                "device_id": "31dd410be0f444ca1ad6dabece931a10",
+                "entity_id": "ec0d08fc71a3e503d81053478355c887",
+                "domain": "light"
+              },
+              {
+                "type": "toggle",
+                "device_id": "9b815fdb4c1fd01694b6243744546d54",
+                "entity_id": "7cd0e7dc49a998cd2d2c5c9b4ab119d9",
+                "domain": "switch"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01HHWM63WA476GBDTZSVH2Q8X8",
+            "parent_id": "01HHWM63W8P87X8B08QN3AG7PE",
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/1",
+          "run_id": "0b94fae07970a22c4288ef272928253f",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2023-12-17T19:31:27.242631+00:00",
+            "finish": "2023-12-17T19:31:27.463246+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1701737373048",
+          "trigger": "event 'hue_event'"
+        }
+      },
+      {
+        "extended_dict": {
+          "last_step": "action/1",
+          "run_id": "228af346106235b68f376e5715558a68",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2023-12-18T15:09:29.683436+00:00",
+            "finish": "2023-12-18T15:09:29.944520+00:00"
+          },
+          "domain": "automation",
+          "item_id": "1701737373048",
+          "trigger": "event 'hue_event'",
+          "trace": {
+            "trigger/0": [
+              {
+                "path": "trigger/0",
+                "timestamp": "2023-12-18T15:09:29.683646+00:00",
+                "changed_variables": {
+                  "this": {
+                    "entity_id": "automation.toggle_tom_office",
+                    "state": "on",
+                    "attributes": {
+                      "id": "1701737373048",
+                      "last_triggered": "2023-12-17T19:31:27.243095+00:00",
+                      "mode": "single",
+                      "current": 0,
+                      "friendly_name": "Toggle Tom Office"
+                    },
+                    "last_changed": "2023-12-18T04:11:33.049592+00:00",
+                    "last_updated": "2023-12-18T04:11:33.049592+00:00",
+                    "context": {
+                      "id": "01HHXHYE9S1VYW5CYKGYV6MGZF",
+                      "parent_id": null,
+                      "user_id": null
+                    }
+                  },
+                  "trigger": {
+                    "id": "0",
+                    "idx": "0",
+                    "alias": null,
+                    "platform": "device",
+                    "event": {
+                      "event_type": "hue_event",
+                      "data": {
+                        "id": "hue_dimmer_switch_1_button",
+                        "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
+                        "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f",
+                        "type": "initial_press",
+                        "subtype": 1
+                      },
+                      "origin": "LOCAL",
+                      "time_fired": "2023-12-18T15:09:29.682820+00:00",
+                      "context": {
+                        "id": "01HHYQK5PJVXFHKVHJDPZBE6N4",
+                        "parent_id": null,
+                        "user_id": null
+                      }
+                    },
+                    "description": "event 'hue_event'"
+                  }
+                }
+              }
+            ],
+            "action/0": [
+              {
+                "path": "action/0",
+                "timestamp": "2023-12-18T15:09:29.684747+00:00",
+                "changed_variables": {
+                  "context": {
+                    "id": "01HHYQK5PKQ6MQNM1PGXHQFGY9",
+                    "parent_id": "01HHYQK5PJVXFHKVHJDPZBE6N4",
+                    "user_id": null
+                  }
+                }
+              }
+            ],
+            "action/1": [
+              {
+                "path": "action/1",
+                "timestamp": "2023-12-18T15:09:29.908331+00:00"
+              }
+            ]
+          },
+          "config": {
+            "id": "1701737373048",
+            "alias": "Toggle Tom Office",
+            "description": "",
+            "trigger": [
+              {
+                "device_id": "d1ff307cc6e5b2c6b9beff9cfe430084",
+                "domain": "hue",
+                "platform": "device",
+                "type": "initial_press",
+                "subtype": 1,
+                "unique_id": "554d0d08-5379-4eca-b56c-841137a9dc6f"
+              }
+            ],
+            "condition": [],
+            "action": [
+              {
+                "type": "toggle",
+                "device_id": "31dd410be0f444ca1ad6dabece931a10",
+                "entity_id": "ec0d08fc71a3e503d81053478355c887",
+                "domain": "light"
+              },
+              {
+                "type": "toggle",
+                "device_id": "9b815fdb4c1fd01694b6243744546d54",
+                "entity_id": "7cd0e7dc49a998cd2d2c5c9b4ab119d9",
+                "domain": "switch"
+              }
+            ],
+            "mode": "single"
+          },
+          "blueprint_inputs": null,
+          "context": {
+            "id": "01HHYQK5PKQ6MQNM1PGXHQFGY9",
+            "parent_id": "01HHYQK5PJVXFHKVHJDPZBE6N4",
+            "user_id": null
+          }
+        },
+        "short_dict": {
+          "last_step": "action/1",
+          "run_id": "228af346106235b68f376e5715558a68",
+          "state": "stopped",
+          "script_execution": "finished",
+          "timestamp": {
+            "start": "2023-12-18T15:09:29.683436+00:00",
+            "finish": "2023-12-18T15:09:29.944520+00:00"
           },
           "domain": "automation",
           "item_id": "1701737373048",
