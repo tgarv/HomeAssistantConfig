@@ -134,6 +134,9 @@ class SmartIRClimate(ClimateEntity, RestoreEntity):
         self._current_humidity = None
 
         self._unit = hass.config.units.temperature_unit
+        if True: #self.hass.config.units.name == 'imperial':
+            self._min_temperature = round(self._min_temperature * 9/5) + 32
+            self._max_temperature = round(self._max_temperature * 9/5) + 32
         
         #Supported features
         self._support_flags = SUPPORT_FLAGS
@@ -222,6 +225,11 @@ class SmartIRClimate(ClimateEntity, RestoreEntity):
     def max_temp(self):
         """Return the polling state."""
         return self._max_temperature
+
+    @property
+    def target_temperatureC(self):
+        """Return the temperature we try to reach."""
+        return self._target_temperatureC
 
     @property
     def target_temperature(self):
@@ -366,6 +374,14 @@ class SmartIRClimate(ClimateEntity, RestoreEntity):
                 fan_mode = self._current_fan_mode
                 swing_mode = self._current_swing_mode
                 target_temperature = '{0:g}'.format(self._target_temperature)
+                
+                # From https://github.com/smartHomeHub/SmartIR/issues/686
+                # TODO add units to the config file instead of hard coding it
+                """The JSON Code info is in Celsius so convert temp back to Celsius"""
+                target_temperatureC = target_temperature
+                #if selfhass.config.units.name == 'imperial':
+                if True:
+                    target_temperatureC = '{0:g}'.format(round((self._target_temperature - 32) * 5/9))
 
                 if operation_mode.lower() == HVAC_MODE_OFF:
                     await self._controller.send(self._commands['off'])
@@ -377,10 +393,11 @@ class SmartIRClimate(ClimateEntity, RestoreEntity):
 
                 if self._support_swing == True:
                     await self._controller.send(
-                        self._commands[operation_mode][fan_mode][swing_mode][target_temperature])
+                        self._commands[operation_mode][fan_mode][swing_mode][target_temperatureC])
                 else:
                     await self._controller.send(
-                        self._commands[operation_mode][fan_mode][target_temperature])
+                        self._commands[operation_mode][fan_mode][target_temperatureC]
+                    )
 
             except Exception as e:
                 _LOGGER.exception(e)
